@@ -1,0 +1,76 @@
+machine:
+    electric-mining-drill:
+        zh: 电力采矿机
+        type: mining-drill
+        speed: 0.5
+        slots: 3
+
+    offshore-pump:
+        zh: 水泵
+        type: offshore-pump
+        speed: [1200, 1560, 1920, 2280, 3000]
+
+    pumpjack:
+        zh: 抽油机
+        type: mining-drill
+        speed: 1
+        slots: 2
+
+    stone-furnace:
+        zh: 石炉
+        type: furnace
+        speed: [1, 1.3, 1.6, 1.9, 2.5]
+
+    steel-furnace:
+        zh: 钢炉
+        type: furnace
+        speed: [2, 2.6, 3.2, 3.8, 5]
+
+    electric-furnace:
+        zh: 电炉
+        type: furnace
+        speed: [2, 2.6, 3.2, 3.8, 5]
+        solts: 2
+
+    assembling-machine-1:
+        zh: 组装机1型
+        type: assembling-machine
+        speed: [0.5, 0.65, 0.8, 0.95, 1.25]
+    
+    assembling-machine-2:
+        zh: 组装机2型
+        type: assembling-machine
+        speed: [0.75, 0.975, 1.2, 1.425, 1.875]
+        slots: 2
+
+    assembling-machine-3:
+        zh: 组装机3型
+        type: assembling-machine
+        speed: [1.25, 1.625, 2, 2.375, 3.125]
+        slots: 4
+    
+    oil-refinery:
+        zh: 炼油厂
+        type: assembling-machine
+        speed: [1, 1.3, 1.6, 1.9, 2.5]
+        slots: 3
+
+    chemical-plant:
+        zh: 化工厂
+        type: assembling-machine
+        speed: [1, 1.3, 1.6, 1.9, 2.5]
+        slots: 3
+    
+    centrifuge:
+        zh: 离心机
+        type: assembling-machine
+        speed: [1, 1.3, 1.6, 1.9, 2.5]
+        slots: 2
+
+    beacon:
+        zh: 插件效果分享塔
+        type: beacon
+        slots: 2
+        effect: [1.5, 1.7, 1.9, 2.1, 2.5]
+
+formula:
