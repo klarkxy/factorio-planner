@@ -1,76 +1,168 @@
 machine:
-    electric-mining-drill:
-        zh: 电力采矿机
-        type: mining-drill
-        speed: 0.5
-        slots: 3
+    - 电力采矿机:
+          type: mining-drill
+          speed: 0.5
+          slots: 3
 
-    offshore-pump:
-        zh: 水泵
-        type: offshore-pump
-        speed: [1200, 1560, 1920, 2280, 3000]
+    - 水泵:
+          type: offshore-pump
+          speed: [1200, 1560, 1920, 2280, 3000]
 
-    pumpjack:
-        zh: 抽油机
-        type: mining-drill
-        speed: 1
-        slots: 2
+    - 抽油机:
+          type: mining-drill
+          speed: 1
+          slots: 2
 
-    stone-furnace:
-        zh: 石炉
-        type: furnace
-        speed: [1, 1.3, 1.6, 1.9, 2.5]
+    - 石炉:
+          type: furnace
+          speed: [1, 1.3, 1.6, 1.9, 2.5]
 
-    steel-furnace:
-        zh: 钢炉
-        type: furnace
-        speed: [2, 2.6, 3.2, 3.8, 5]
+    - 钢炉:
+          type: furnace
+          speed: [2, 2.6, 3.2, 3.8, 5]
 
-    electric-furnace:
-        zh: 电炉
-        type: furnace
-        speed: [2, 2.6, 3.2, 3.8, 5]
-        solts: 2
+    - 电炉:
+          type: furnace
+          speed: [2, 2.6, 3.2, 3.8, 5]
+          solts: 2
 
-    assembling-machine-1:
-        zh: 组装机1型
-        type: assembling-machine
-        speed: [0.5, 0.65, 0.8, 0.95, 1.25]
-    
-    assembling-machine-2:
-        zh: 组装机2型
-        type: assembling-machine
-        speed: [0.75, 0.975, 1.2, 1.425, 1.875]
-        slots: 2
+    - 组装机1型:
+          type: assembling-machine
+          speed: [0.5, 0.65, 0.8, 0.95, 1.25]
 
-    assembling-machine-3:
-        zh: 组装机3型
-        type: assembling-machine
-        speed: [1.25, 1.625, 2, 2.375, 3.125]
-        slots: 4
-    
-    oil-refinery:
-        zh: 炼油厂
-        type: assembling-machine
-        speed: [1, 1.3, 1.6, 1.9, 2.5]
-        slots: 3
+    - 组装机2型:
+          type: assembling-machine
+          speed: [0.75, 0.975, 1.2, 1.425, 1.875]
+          slots: 2
 
-    chemical-plant:
-        zh: 化工厂
-        type: assembling-machine
-        speed: [1, 1.3, 1.6, 1.9, 2.5]
-        slots: 3
-    
-    centrifuge:
-        zh: 离心机
-        type: assembling-machine
-        speed: [1, 1.3, 1.6, 1.9, 2.5]
-        slots: 2
+    - 组装机3型:
+          type: assembling-machine
+          speed: [1.25, 1.625, 2, 2.375, 3.125]
+          slots: 4
 
-    beacon:
-        zh: 插件效果分享塔
-        type: beacon
-        slots: 2
-        effect: [1.5, 1.7, 1.9, 2.1, 2.5]
+    - 炼油厂:
+          type: assembling-machine
+          speed: [1, 1.3, 1.6, 1.9, 2.5]
+          slots: 3
+
+    - 化工厂:
+          type: assembling-machine
+          speed: [1, 1.3, 1.6, 1.9, 2.5]
+          slots: 3
+
+    - 离心机:
+          type: assembling-machine
+          speed: [1, 1.3, 1.6, 1.9, 2.5]
+          slots: 2
+
+    - 插件效果分享塔:
+          type: beacon
+          slots: 2
+          effect: [1.5, 1.7, 1.9, 2.1, 2.5]
+    - 大型采矿机:
+          type: mining-drill
+          speed: 2.5
+          slots: 4
+
+    - 铸造厂:
+          type: assembling-machine
+          speed: [4, 5.2, 6.4, 7.6, 10]
+          slots: 4
+          productidivity: 0.5
+
+    - 回收站:
+          type: furnace
+          speed: [0.5, 0.65, 0.8, 0.95, 1.25]
+          slots: 4
+
+    - 农业塔:
+          type: agricultural-tower
+
+    - 生物室:
+          type: biochamber
+          slots: 4
+          speed: [2, 2.6, 3.2, 3.8, 5]
+
+    - 虫巢孵化器:
+          type: assembling-machine
+          speed: [1, 1.3, 1.6, 1.9, 2.5]
+          slots: 4
+
+    - 电磁工厂:
+          type: assembling-machine
+          speed: [2, 2.6, 3.2, 3.8, 5]
+          slots: 5
+          productidivity: 0.5
+
+    - 低温工厂:
+          type: assembling-machine
+          speed: [2, 2.6, 3.2, 3.8, 5]
+          slots: 8
 
 formula:
+    - 基础原油处理:
+      materials:
+          - name: 原油
+            amount: 100
+      products:
+          - name: 石油气
+            amount: 45
+      time: 5
+      machime: [炼油厂]
+    - 高等原油处理:
+      materials:
+          - name: 原油
+            amount: 100
+          - name: 水
+            amount: 50
+      products:
+          - name: 重油
+            amount: 25
+          - name: 轻油
+            amount: 45
+          - name: 石油气
+            amount: 55
+      time: 5
+      machime: [炼油厂]
+
+    - 简易煤炭液化:
+      materials:
+          - name: 煤矿
+            amount: 10
+          - name: 方解石
+            amount: 2
+          - name: 硫酸
+            amount: 25
+      products:
+          - name: 重油
+            amount: 50
+      time: 5
+      machime: [炼油厂]
+    - 煤炭液化:
+      materials:
+          - name: 煤矿
+            amount: 10
+          - name: 重油
+            amount: 25
+          - name: 蒸汽
+            amount: 50
+      products:
+          - name: 重油
+            amount: 90
+          - name: 轻油
+            amount: 20
+          - name: 石油气
+            amount: 10
+      time: 5
+      machime: [炼油厂]
+    - 重油裂解:
+      materials:
+          - name: 重油
+            amount: 100
+      products:
+          - name: 轻油
+            amount: 45
+          - name: 石油气
+            amount: 55
+      time: 5
+      machime: [炼油厂]
