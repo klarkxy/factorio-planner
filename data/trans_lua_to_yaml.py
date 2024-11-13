@@ -49,7 +49,6 @@ with open(RAW_REPICES_FILE, "w", encoding="utf-8") as f:
 
 recipes = {}
 recipes_zh = {}
-items_list = {}
 
 # 读取locale文件 - 中文翻译
 LOCALE_FILE = os.path.join(PWD, 'locale.yaml')
@@ -61,7 +60,10 @@ else:
 
 def get_locale(k : str) -> str:
     if k not in locale:
-        locale[k] = k 
+        kk = k
+        locale[k] = kk
+    if isinstance(locale[k], list):
+        return locale[k][0]
     return locale[k]
 
 # 提取出配方中的数据
@@ -75,19 +77,13 @@ for k, v in raw_recipes.items():
     ingredients_zh = {}
     for x in v.get('ingredients', {}):
         ingredients[x['name']] = x['amount']
-        if x['name'] in locale:
-            ingredients_zh[get_locale(x['name'])] = x['amount']
-        else:
-            ingredients_zh[x['name']] = x['amount']
+        ingredients_zh[get_locale(x['name'])] = x['amount']
     # 分析产物
     results = {}
     results_zh = {}
     for x in v.get('results', {}):
         results[x['name']] = x['amount']
-        if x['name'] in locale:
-            results_zh[get_locale(x['name'])] = x['amount']
-        else:
-            results_zh[x['name']] = x['amount']
+        results_zh[get_locale(x['name'])] = x['amount']
     recipes[name] = {
         'time': time,
         'ingredients': ingredients,
@@ -107,7 +103,7 @@ with open(RECIPES_FILE, "w", encoding="utf-8") as f:
 # 输出中文配方表
 RECIPES_ZH_FILE = os.path.join(PWD, 'recipes_zh.yaml')
 with open(RECIPES_ZH_FILE, "w", encoding="utf-8") as f:
-    yaml.dump_all(recipes_zh, f, allow_unicode=True)
+    yaml.dump(recipes_zh, f, allow_unicode=True)
 
 # 覆写locale文件，用于手动添加汉化
 with open(LOCALE_FILE, "w", encoding="utf-8") as f:

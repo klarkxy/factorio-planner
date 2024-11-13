@@ -1,682 +1,4921 @@
-holmium-solution
---- exoskeleton-equipment-recycling
---- supercapacitor-recycling
---- decider-combinator
---- steam-turbine
---- electric-engine-unit-recycling
---- rail-ramp-recycling
---- empty-heavy-oil-barrel
---- advanced-metallic-asteroid-crushing
---- space-platform-foundation-recycling
---- fluoroketone
---- requester-chest
---- rocket-silo-recycling
---- piercing-rounds-magazine-recycling
---- cluster-grenade
---- speed-module-recycling
---- jellynut-processing
---- nutrients-from-spoilage
---- rocket-fuel-from-jelly
---- supercapacitor
---- automation-science-pack
---- casting-iron
---- electric-energy-interface-recycling
---- logistic-science-pack-recycling
---- express-underground-belt-recycling
---- inserter
---- turbo-underground-belt-recycling
---- artificial-yumako-soil-recycling
---- asteroid-collector
---- fusion-generator-recycling
---- plastic-bar-recycling
---- fusion-power-cell-recycling
---- pentapod-egg-recycling
---- casting-copper
---- battery-mk2-equipment
---- centrifuge-recycling
---- iron-bacteria-recycling
---- artillery-targeting-remote-recycling
---- battery-mk3-equipment
---- gun-turret
---- parameter-9
---- sulfur
---- blueprint-recycling
---- selector-combinator-recycling
---- rail-support
---- petroleum-gas-barrel-recycling
---- fluoroketone-cold-barrel-recycling
---- railgun-ammo-recycling
---- concrete-from-molten-iron
---- flamethrower-ammo
---- lubricant
---- submachine-gun-recycling
---- heating-tower
---- chemical-plant-recycling
---- parameter-4
---- engine-unit-recycling
---- display-panel-recycling
---- pump-recycling
---- coin-recycling
---- toolbelt-equipment-recycling
---- electronic-circuit
---- thruster-recycling
---- electronic-circuit-recycling
---- belt-immunity-equipment
---- bulk-inserter-recycling
---- stone-furnace
---- storage-tank-recycling
---- personal-roboport-mk2-equipment-recycling
---- nuclear-fuel
---- copper-wire-recycling
---- agricultural-science-pack-recycling
---- tree-seed-recycling
---- battery-equipment
---- electromagnetic-science-pack-recycling
---- casting-low-density-structure
---- accumulator
---- biolubricant
---- heavy-oil-cracking
---- military-science-pack-recycling
---- small-electric-pole
---- railgun-turret-recycling
---- light-oil-cracking
---- turbo-underground-belt
---- gun-turret-recycling
---- speed-module-3-recycling
---- storage-chest-recycling
---- explosives-recycling
---- rocket-launcher
---- pipe-to-ground-recycling
---- cargo-wagon
---- active-provider-chest-recycling
---- fluoroketone-cold-barrel
---- battery-mk3-equipment-recycling
---- medium-electric-pole-recycling
---- empty-crude-oil-barrel
---- rocket-recycling
---- stone-wall
---- spidertron-rocket-launcher-3-recycling
---- logistic-robot
---- sulfur-recycling
---- parameter-9-recycling
---- grenade-recycling
---- bulk-inserter
---- cliff-explosives-recycling
---- iron-gear-wheel-recycling
---- construction-robot-recycling
---- overgrowth-jellynut-soil
---- light-armor
---- tungsten-plate
---- kovarex-enrichment-process
---- beacon
---- explosive-cannon-shell-recycling
---- stone-brick-recycling
---- parameter-6
---- basic-oil-processing
---- copper-bacteria
---- decider-combinator-recycling
---- boiler-recycling
---- fast-splitter-recycling
---- destroyer-capsule-recycling
---- night-vision-equipment-recycling
---- piercing-shotgun-shell-recycling
---- solid-fuel-from-petroleum-gas
---- solid-fuel-from-light-oil
---- nuclear-reactor-recycling
---- nutrients-from-yumako-mash
---- lab-recycling
---- landfill
---- passive-provider-chest
---- casting-pipe-to-ground
---- agricultural-science-pack
---- carbon-fiber-recycling
---- artillery-wagon
---- jellynut-recycling
---- repair-pack-recycling
---- productivity-module-2
---- advanced-thruster-oxidizer
---- solid-fuel-from-ammonia
---- rocket
---- fast-splitter
---- big-mining-drill-recycling
---- car-recycling
---- holmium-ore-recycling
---- teslagun
---- uranium-235-recycling
---- solar-panel-equipment
---- green-wire-recycling
---- defender-capsule
---- parameter-1-recycling
---- spidertron-rocket-launcher-2-recycling
---- molten-copper
---- express-underground-belt
---- crude-oil-barrel-recycling
---- arithmetic-combinator-recycling
---- turbo-splitter-recycling
---- heavy-armor
---- barrel-recycling
---- heat-exchanger-recycling
---- space-platform-hub-recycling
---- copy-paste-tool-recycling
---- personal-roboport-equipment
---- engine-unit
---- simple-entity-with-force-recycling
---- railgun
---- small-lamp
---- processing-unit-recycling
---- spidertron-rocket-launcher-4-recycling
---- raw-fish-recycling
---- calcite-recycling
---- battery-mk2-equipment-recycling
---- refined-concrete
---- pipe-recycling
---- fluoroketone-hot-barrel
---- rocket-turret
---- advanced-oxide-asteroid-crushing
---- burnt-spoilage
---- yumako-mash-recycling
---- long-handed-inserter
---- metallic-asteroid-chunk-recycling
---- nuclear-fuel-reprocessing
---- teslagun-recycling
---- storage-tank
---- firearm-magazine
---- advanced-oil-processing
---- personal-laser-defense-equipment-recycling
---- electromagnetic-plant
---- radar-recycling
---- uranium-fuel-cell
---- iron-gear-wheel
---- cluster-grenade-recycling
---- express-transport-belt-recycling
---- molten-copper-from-lava
---- lightning-collector
---- copper-bacteria-cultivation
---- explosive-rocket
---- biolab-recycling
---- heating-tower-recycling
---- iron-bacteria-cultivation
---- stone-brick
---- red-wire-recycling
---- carbonic-asteroid-crushing
---- electric-furnace
---- production-science-pack
---- oil-refinery
---- explosive-uranium-cannon-shell-recycling
---- shotgun-shell-recycling
---- lithium-recycling
---- electromagnetic-science-pack
---- loader
---- locomotive
---- express-splitter-recycling
---- rail-signal-recycling
---- productivity-module-2-recycling
---- stone-recycling
---- coal-synthesis
---- space-science-pack
---- jellynut-seed-recycling
---- fusion-reactor-equipment-recycling
---- acid-neutralisation
---- electric-engine-unit
---- splitter
---- artillery-wagon-recycling
---- burner-generator-recycling
---- solid-fuel-recycling
---- assembling-machine-3-recycling
---- artillery-shell-recycling
---- landfill-recycling
---- assembling-machine-3
---- copper-plate-recycling
---- bioflux
---- steel-plate
---- spoilage-recycling
---- fast-inserter-recycling
---- offshore-pump
---- barrel
---- nuclear-fuel-recycling
---- low-density-structure
---- bioflux-recycling
---- iron-ore-recycling
---- active-provider-chest
---- infinity-pipe-recycling
---- chemical-plant
---- fluoroketone-hot-barrel-recycling
---- carbon-recycling
---- ammoniacal-solution-separation
---- coal-recycling
---- turbo-loader-recycling
---- construction-robot
---- burner-inserter-recycling
---- assembling-machine-2-recycling
---- empty-fluoroketone-cold-barrel
---- steam-engine-recycling
---- infinity-chest-recycling
---- asteroid-collector-recycling
---- parameter-6-recycling
---- scrap-recycling
---- electric-furnace-recycling
---- medium-electric-pole
---- pistol-recycling
---- electromagnetic-plant-recycling
---- lightning-collector-recycling
---- copper-cable
---- cargo-wagon-recycling
---- personal-roboport-mk2-equipment
---- recipe-unknown
---- lightning-rod-recycling
---- centrifuge
---- heavy-oil-barrel-recycling
---- empty-water-barrel
---- artillery-turret
---- empty-module-slot-recycling
---- flying-robot-frame
---- tungsten-plate-recycling
---- big-electric-pole
---- offshore-pump-recycling
---- molten-iron-from-lava
---- capture-robot-rocket
---- accumulator-recycling
---- lab
---- arithmetic-combinator
---- assembling-machine-1
---- energy-shield-equipment
---- rocket-turret-recycling
---- nutrients-from-biter-egg
---- electric-mining-drill
---- refined-hazard-concrete
---- superconductor-recycling
---- requester-chest-recycling
---- pipe-to-ground
---- lithium-plate-recycling
---- heat-interface-recycling
---- flamethrower-recycling
---- artificial-jellynut-soil-recycling
---- ammonia-rocket-fuel
---- agricultural-tower
---- copper-cable-recycling
---- energy-shield-mk2-equipment
---- oil-refinery-recycling
---- steel-plate-recycling
---- empty-fluoroketone-hot-barrel
---- crusher-recycling
---- heat-pipe-recycling
---- power-armor
---- advanced-thruster-fuel
---- fusion-power-cell
---- captive-biter-spawner-recycling
---- rail-ramp
---- yumako-seed-recycling
---- casting-copper-cable
---- yumako-recycling
---- assembling-machine-2
---- yumako-processing
---- carbon-fiber
---- piercing-rounds-magazine
---- iron-plate
---- wooden-chest
---- iron-bacteria
---- casting-pipe
---- wood-recycling
---- water-barrel-recycling
---- wood-processing
---- low-density-structure-recycling
---- cryogenic-plant
---- bioplastic
---- water-barrel
---- repair-pack
---- metallurgic-science-pack
---- utility-science-pack-recycling
---- simple-coal-liquefaction
---- iron-stick-recycling
---- transport-belt-recycling
---- utility-science-pack
---- fusion-reactor
---- solid-fuel-from-heavy-oil
---- firearm-magazine-recycling
---- uranium-rounds-magazine-recycling
---- metallurgic-science-pack-recycling
---- uranium-rounds-magazine
---- distractor-capsule-recycling
---- parameter-8-recycling
---- fast-loader
---- tank-cannon-recycling
---- uranium-ore-recycling
---- quantum-processor-recycling
---- ice-melting
---- fusion-reactor-equipment
---- promethium-asteroid-chunk-recycling
---- uranium-fuel-cell-recycling
---- defender-capsule-recycling
---- cliff-explosives
---- solar-panel
---- parameter-7-recycling
---- uranium-cannon-shell-recycling
---- loader-recycling
---- energy-shield-equipment-recycling
---- uranium-cannon-shell
---- uranium-238-recycling
---- rail-chain-signal
---- tank
---- underground-belt-recycling
---- underground-belt
---- biter-egg
---- turbo-transport-belt-recycling
---- turbo-transport-belt
---- coal-liquefaction
---- turbo-splitter
---- personal-roboport-equipment-recycling
---- tungsten-ore-recycling
---- tungsten-carbide-recycling
---- tungsten-carbide
---- power-switch
---- transport-belt
---- quality-module
---- iron-stick
---- lightning-rod
---- blueprint-book-recycling
---- rocket-silo
---- biochamber-recycling
---- tesla-ammo-recycling
---- battery
---- rocket-fuel-recycling
---- toolbelt-equipment
---- thruster-oxidizer
---- thruster-fuel
---- thruster
---- efficiency-module-recycling
---- fluid-wagon
---- tesla-turret-recycling
---- lithium-plate
---- railgun-turret
---- tesla-turret
---- sulfuric-acid
---- laser-turret-recycling
---- lubricant-barrel-recycling
---- capture-robot-rocket-recycling
---- rail-chain-signal-recycling
---- artillery-shell
---- modular-armor-recycling
---- big-electric-pole-recycling
---- combat-shotgun
---- slowdown-capsule
---- superconductor
---- parameter-1
---- sulfuric-acid-barrel-recycling
---- sulfuric-acid-barrel
---- tesla-ammo
---- cryogenic-plant-recycling
---- substation-recycling
---- land-mine-recycling
---- submachine-gun
---- flamethrower-turret
---- storage-chest
---- energy-shield-mk2-equipment-recycling
---- constant-combinator
---- express-loader
---- stone-wall-recycling
---- stone-furnace-recycling
---- steel-furnace-recycling
---- steel-furnace
---- empty-sulfuric-acid-barrel
---- cannon-shell-recycling
---- steel-chest-recycling
---- steel-chest
---- steam-turbine-recycling
---- steam-engine
---- steam-condensation
---- cannon-shell
---- depleted-uranium-fuel-cell-recycling
---- stack-inserter-recycling
---- stack-inserter
---- splitter-recycling
---- pipe
---- spidertron-rocket-launcher-1-recycling
---- buffer-chest
---- spidertron-remote-recycling
---- spidertron-recycling
---- spidertron
---- belt-immunity-equipment-recycling
---- speed-module-3
---- laser-turret
---- express-splitter
---- speed-module
---- lubricant-barrel
---- chemical-science-pack-recycling
---- space-science-pack-recycling
---- quality-module-3
---- space-platform-starter-pack
---- space-platform-foundation
---- wooden-chest-recycling
---- parameter-0-recycling
---- explosive-uranium-cannon-shell
---- small-lamp-recycling
---- cryogenic-science-pack
---- small-electric-pole-recycling
---- pump
---- slowdown-capsule-recycling
---- tank-flamethrower-recycling
---- simple-entity-with-owner-recycling
---- shotgun-shell
---- shotgun-recycling
---- nutrients-from-fish
---- explosives
---- casting-steel
---- power-armor-recycling
---- electric-mining-drill-recycling
---- locomotive-recycling
---- burner-inserter
---- science-recycling
---- rocket-part-recycling
---- rocket-part
---- ice-platform
---- foundry
---- rocket-launcher-recycling
---- light-oil-barrel
---- train-stop
---- rocket-fuel
---- nutrients-recycling
---- roboport
---- vehicle-machine-gun-recycling
---- automation-science-pack-recycling
---- cargo-bay-recycling
---- quality-module-recycling
---- refined-concrete-recycling
---- recycler-recycling
---- radar
---- recycler
---- combat-shotgun-recycling
---- buffer-chest-recycling
---- explosive-rocket-recycling
---- railgun-recycling
---- rail-support-recycling
---- railgun-ammo
---- light-oil-barrel-recycling
---- rail-recycling
---- tank-recycling
---- upgrade-planner-recycling
---- empty-lubricant-barrel
---- quantum-processor
---- fusion-reactor-recycling
---- quality-module-3-recycling
---- space-platform-starter-pack-recycling
---- quality-module-2-recycling
---- quality-module-2
---- train-stop-recycling
---- gate-recycling
---- pumpjack-recycling
---- heavy-oil-barrel
---- pumpjack
---- linked-chest-recycling
---- promethium-science-pack-recycling
---- promethium-science-pack
---- programmable-speaker-recycling
---- programmable-speaker
---- agricultural-tower-recycling
---- parameter-2-recycling
---- productivity-module-recycling
---- productivity-module-3
---- atomic-bomb-recycling
---- productivity-module-3-recycling
---- battery-equipment-recycling
---- productivity-module
---- production-science-pack-recycling
---- advanced-carbonic-asteroid-crushing
---- efficiency-module
---- processing-unit
---- explosive-cannon-shell
---- selector-combinator
---- power-armor-mk2-recycling
---- oxide-asteroid-reprocessing
---- poison-capsule-recycling
---- poison-capsule
---- biochamber
---- linked-belt-recycling
---- plastic-bar
---- big-mining-drill
---- pistol
---- piercing-shotgun-shell
---- petroleum-gas-barrel
---- long-handed-inserter-recycling
---- artificial-yumako-soil
---- turbo-loader
---- personal-laser-defense-equipment
---- overgrowth-jellynut-soil-recycling
---- biolab
---- burner-mining-drill-recycling
---- fission-reactor-equipment
---- pentapod-egg
---- hazard-concrete-recycling
---- crusher
---- passive-provider-chest-recycling
---- carbonic-asteroid-chunk-recycling
---- advanced-circuit
---- empty-petroleum-gas-barrel
---- artillery-wagon-cannon-recycling
---- parameter-8
---- parameter-7
---- fast-loader-recycling
---- tank-machine-gun-recycling
---- night-vision-equipment
---- parameter-4-recycling
---- flamethrower-turret-recycling
---- parameter-3-recycling
---- parameter-3
---- parameter-2
---- solar-panel-equipment-recycling
---- parameter-0
---- power-armor-mk2
---- speed-module-2
---- oxide-asteroid-chunk-recycling
---- overgrowth-yumako-soil-recycling
---- overgrowth-yumako-soil
---- roboport-recycling
---- crude-oil-barrel
---- nutrients-from-bioflux
---- discharge-defense-equipment-recycling
---- parameter-5
---- molten-iron
---- parameter-5-recycling
---- modular-armor
---- fast-underground-belt
---- metallic-asteroid-reprocessing
---- lithium
---- metallic-asteroid-crushing
---- iron-plate-recycling
---- ice-recycling
---- land-mine
---- mech-armor-recycling
---- holmium-plate-recycling
---- mech-armor
---- heat-interface
---- logistic-robot-recycling
---- selection-tool-recycling
---- rail-signal
---- exoskeleton-equipment
---- speed-module-2-recycling
---- empty-light-oil-barrel
---- biter-egg-recycling
---- lane-splitter-recycling
---- cargo-landing-pad-recycling
---- substation
---- jelly-recycling
---- item-unknown-recycling
---- solar-panel-recycling
---- beacon-recycling
---- iron-chest-recycling
---- iron-chest
---- inserter-recycling
---- advanced-circuit-recycling
---- infinity-pipe
---- infinity-chest
---- ice-platform-recycling
---- holmium-plate
---- assembling-machine-1-recycling
---- fluid-wagon-recycling
---- heavy-armor-recycling
---- rail
---- logistic-science-pack
---- heat-exchanger
---- oxide-asteroid-crushing
---- foundry-recycling
---- grenade
---- gate
---- discharge-defense-equipment
---- burner-mining-drill
---- foundation
---- flying-robot-frame-recycling
---- fluoroketone-cooling
---- foundation-recycling
---- fast-transport-belt
---- flamethrower
---- light-armor-recycling
---- fish-breeding
---- fast-underground-belt-recycling
---- military-science-pack
---- fast-transport-belt-recycling
---- uranium-processing
---- artificial-jellynut-soil
---- electrolyte
---- express-transport-belt
---- hazard-concrete
---- express-loader-recycling
---- biosulfur
---- shotgun
---- power-switch-recycling
---- destroyer-capsule
---- fission-reactor-equipment-recycling
---- heat-pipe
---- fast-inserter
---- cargo-bay
---- efficiency-module-3
---- efficiency-module-2-recycling
---- efficiency-module-2
---- distractor-capsule
---- cargo-landing-pad
---- discharge-defense-remote-recycling
---- captive-biter-spawner
---- concrete
---- nuclear-reactor
---- fusion-generator
---- casting-iron-stick
---- deconstruction-planner-recycling
---- cut-paste-tool-recycling
---- efficiency-module-3-recycling
---- copper-plate
---- artillery-turret-recycling
---- copper-ore-recycling
---- copper-bacteria-recycling
---- constant-combinator-recycling
---- carbon
---- concrete-recycling
---- chemical-science-pack
---- casting-iron-gear-wheel
---- display-panel
---- atomic-bomb
---- refined-hazard-concrete-recycling
---- cryogenic-science-pack-recycling
---- carbonic-asteroid-reprocessing
---- car
---- flamethrower-ammo-recycling
---- boiler
---- battery-recycling
-...
+个人机器人港设备:
+  产品:
+    个人机器人港设备: 1
+  原料:
+    电池: 45
+    钢板: 20
+    铁齿轮: 40
+    高级电路: 10
+  用时: 10
+个人机器人港设备MK2:
+  产品:
+    个人机器人港设备MK2: 1
+  原料:
+    个人机器人港设备: 5
+    处理单元: 50
+    超导体: 50
+  用时: 20
+个人机器人港设备MK2回收:
+  产品:
+    个人机器人港设备: 1.25
+    处理单元: 12.5
+    超导体: 12.5
+  原料:
+    个人机器人港设备MK2: 1
+  用时: 1.25
+个人机器人港设备回收:
+  产品:
+    电池: 11.25
+    钢板: 5
+    铁齿轮: 10
+    高级电路: 2.5
+  原料:
+    个人机器人港设备: 1
+  用时: 0.625
+个人激光防御设备:
+  产品:
+    个人激光防御设备: 1
+  原料:
+    低密度结构: 5
+    处理单元: 20
+    激光塔: 5
+  用时: 10
+个人激光防御设备回收:
+  产品:
+    低密度结构: 1.25
+    处理单元: 5
+    激光塔: 1.25
+  原料:
+    个人激光防御设备: 1
+  用时: 0.625
+中型电线杆:
+  产品:
+    中型电线杆: 1
+  原料:
+    钢板: 2
+    铁棒: 4
+    铜线: 2
+  用时: 0
+中型电线杆回收:
+  产品:
+    钢板: 0.5
+    铁棒: 1
+    铜线: 0.5
+  原料:
+    中型电线杆: 1
+  用时: 0.0625
+主动提供箱:
+  产品:
+    主动提供箱: 1
+  原料:
+    电子电路: 3
+    钢箱: 1
+    高级电路: 1
+  用时: 0
+主动提供箱回收:
+  产品:
+    电子电路: 0.75
+    钢箱: 0.25
+    高级电路: 0.25
+  原料:
+    主动提供箱: 1
+  用时: 0.0625
+五足虫卵:
+  产品:
+    五足虫卵: 2
+  原料:
+    五足虫卵: 1
+    水: 60
+    营养粉: 30
+  用时: 15
+五足虫卵回收:
+  产品:
+    五足虫卵: 1
+  原料:
+    五足虫卵: 1
+  用时: 0.9375
+人造优马科土壤:
+  产品:
+    人造优马科土壤: 10
+  原料:
+    优马科种子: 2
+    填埋场: 5
+    营养粉: 50
+  用时: 2
+人造优马科土壤回收:
+  产品:
+    优马科种子: 0.05
+    填埋场: 0.125
+    营养粉: 1.25
+  原料:
+    人造优马科土壤: 1
+  用时: 0.125
+人造果冻坚果土壤:
+  产品:
+    人造果冻坚果土壤: 10
+  原料:
+    填埋场: 5
+    果冻坚果种子: 2
+    营养粉: 50
+  用时: 2
+人造果冻坚果土壤回收:
+  产品:
+    填埋场: 0.125
+    果冻坚果种子: 0.05
+    营养粉: 1.25
+  原料:
+    人造果冻坚果土壤: 1
+  用时: 0.125
+从优马科浆中提取营养:
+  产品:
+    营养粉: 6
+  原料:
+    优马科浆: 4
+  用时: 4
+从咬人虫卵中提取营养:
+  产品:
+    营养粉: 20
+  原料:
+    咬人虫卵: 1
+  用时: 2
+从废料中提取营养:
+  产品:
+    营养粉: 1
+  原料:
+    废料: 10
+  用时: 2
+从生物流中提取营养:
+  产品:
+    营养粉: 40
+  原料:
+    生物流: 5
+  用时: 2
+从鱼中提取营养:
+  产品:
+    营养粉: 20
+  原料:
+    生鱼: 1
+  用时: 2
+优马科加工:
+  产品:
+    优马科浆: 2
+    优马科种子: 1
+  原料:
+    优马科: 1
+  用时: 1
+优马科回收:
+  产品:
+    优马科: 1
+  原料:
+    优马科: 1
+  用时: 0.0625
+优马科浆回收:
+  产品:
+    优马科浆: 1
+  原料:
+    优马科浆: 1
+  用时: 0.0625
+优马科种子回收:
+  产品:
+    优马科种子: 1
+  原料:
+    优马科种子: 1
+  用时: 0.0625
+传送带:
+  产品:
+    传送带: 2
+  原料:
+    铁板: 1
+    铁齿轮: 1
+  用时: 0
+传送带免疫设备:
+  产品:
+    传送带免疫设备: 1
+  原料:
+    钢板: 10
+    高级电路: 5
+  用时: 10
+传送带免疫设备回收:
+  产品:
+    钢板: 2.5
+    高级电路: 1.25
+  原料:
+    传送带免疫设备: 1
+  用时: 0.625
+传送带回收:
+  产品:
+    铁板: 0.125
+    铁齿轮: 0.125
+  原料:
+    传送带: 1
+  用时: 0.0625
+低密度结构:
+  产品:
+    低密度结构: 1
+  原料:
+    塑料棒: 5
+    钢板: 2
+    铜板: 20
+  用时: 15
+低密度结构回收:
+  产品:
+    塑料棒: 1.25
+    钢板: 0.5
+    铜板: 5
+  原料:
+    低密度结构: 1
+  用时: 0.9375
+低温工厂:
+  产品:
+    低温工厂: 1
+  原料:
+    处理单元: 20
+    精炼混凝土: 40
+    超导体: 20
+    锂板: 20
+  用时: 10
+低温工厂回收:
+  产品:
+    处理单元: 5
+    精炼混凝土: 10
+    超导体: 5
+    锂板: 5
+  原料:
+    低温工厂: 1
+  用时: 0.625
+低温科学包:
+  产品:
+    低温科学包: 1
+    热氟酮: 3
+  原料:
+    冰: 3
+    冷氟酮: 6
+    锂板: 1
+  用时: 20
+低温科学包回收:
+  产品:
+    低温科学包: 1
+  原料:
+    低温科学包: 1
+  用时: 1.25
+俘虏咬人虫孵化器:
+  产品:
+    俘虏咬人虫孵化器: 1
+  原料:
+    冷氟酮: 100
+    咬人虫卵: 10
+    捕捉机器人火箭: 1
+    铀-235: 15
+  用时: 10
+俘虏咬人虫孵化器回收:
+  产品:
+    俘虏咬人虫孵化器: 1
+  原料:
+    俘虏咬人虫孵化器: 1
+  用时: 0.625
+信标:
+  产品:
+    信标: 1
+  原料:
+    电子电路: 20
+    钢板: 10
+    铜线: 10
+    高级电路: 20
+  用时: 15
+信标回收:
+  产品:
+    电子电路: 5
+    钢板: 2.5
+    铜线: 2.5
+    高级电路: 5
+  原料:
+    信标: 1
+  用时: 0.9375
+修理包:
+  产品:
+    修理包: 1
+  原料:
+    电子电路: 2
+    铁齿轮: 2
+  用时: 0
+修理包回收:
+  产品:
+    电子电路: 0.5
+    铁齿轮: 0.5
+  原料:
+    修理包: 1
+  用时: 0.0625
+储物箱:
+  产品:
+    储物箱: 1
+  原料:
+    电子电路: 3
+    钢箱: 1
+    高级电路: 1
+  用时: 0
+储物箱回收:
+  产品:
+    电子电路: 0.75
+    钢箱: 0.25
+    高级电路: 0.25
+  原料:
+    储物箱: 1
+  用时: 0.0625
+储罐:
+  产品:
+    储罐: 1
+  原料:
+    钢板: 5
+    铁板: 20
+  用时: 3
+储罐回收:
+  产品:
+    钢板: 1.25
+    铁板: 5
+  原料:
+    储罐: 1
+  用时: 0.1875
+军事科学包:
+  产品:
+    军事科学包: 2
+  原料:
+    手榴弹: 1
+    石墙: 2
+    穿甲弹匣: 1
+  用时: 10
+军事科学包回收:
+  产品:
+    军事科学包: 1
+  原料:
+    军事科学包: 1
+  用时: 0.625
+农业塔:
+  产品:
+    农业塔: 1
+  原料:
+    填埋场: 1
+    废料: 20
+    电子电路: 3
+    钢板: 10
+  用时: 10
+农业塔回收:
+  产品:
+    填埋场: 0.25
+    废料: 5
+    电子电路: 0.75
+    钢板: 2.5
+  原料:
+    农业塔: 1
+  用时: 0.625
+农业科学包:
+  产品:
+    农业科学包: 1
+  原料:
+    五足虫卵: 1
+    生物流: 1
+  用时: 4
+农业科学包回收:
+  产品:
+    农业科学包: 1
+  原料:
+    农业科学包: 1
+  用时: 0.25
+冰回收:
+  产品:
+    冰: 1
+  原料:
+    冰: 1
+  用时: 0.0625
+冰平台:
+  产品:
+    冰平台: 1
+  原料:
+    冰: 50
+    氨: 400
+  用时: 30
+冰平台回收:
+  产品:
+    冰: 12.5
+  原料:
+    冰平台: 1
+  用时: 1.875
+冰融化:
+  产品:
+    水: 20
+  原料:
+    冰: 1
+  用时: 1
+冲锋枪:
+  产品:
+    冲锋枪: 1
+  原料:
+    铁板: 10
+    铁齿轮: 10
+    铜板: 5
+  用时: 10
+冲锋枪回收:
+  产品:
+    铁板: 2.5
+    铁齿轮: 2.5
+    铜板: 1.25
+  原料:
+    冲锋枪: 1
+  用时: 0.625
+冶金科学包:
+  产品:
+    冶金科学包: 1
+  原料:
+    熔融铜: 200
+    碳化钨: 3
+    钨板: 2
+  用时: 10
+冶金科学包回收:
+  产品:
+    冶金科学包: 1
+  原料:
+    冶金科学包: 1
+  用时: 0.625
+冷氟酮桶:
+  产品:
+    冷氟酮桶: 1
+  原料:
+    冷氟酮: 50
+    桶: 1
+  用时: 0.2
+冷氟酮桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    冷氟酮桶: 1
+  用时: 0.0125
+减速胶囊:
+  产品:
+    减速胶囊: 1
+  原料:
+    煤: 5
+    电子电路: 2
+    钢板: 2
+  用时: 8
+减速胶囊回收:
+  产品:
+    煤: 1.25
+    电子电路: 0.5
+    钢板: 0.5
+  原料:
+    减速胶囊: 1
+  用时: 0.5
+分流器:
+  产品:
+    分流器: 1
+  原料:
+    传送带: 4
+    电子电路: 5
+    铁板: 5
+  用时: 1
+分流器回收:
+  产品:
+    传送带: 1
+    电子电路: 1.25
+    铁板: 1.25
+  原料:
+    分流器: 1
+  用时: 0.0625
+判决组合器:
+  产品:
+    判决组合器: 1
+  原料:
+    电子电路: 5
+    铜线: 5
+  用时: 0
+判决组合器回收:
+  产品:
+    电子电路: 1.25
+    铜线: 1.25
+  原料:
+    判决组合器: 1
+  用时: 0.0625
+剪切粘贴工具回收:
+  产品:
+    剪切粘贴工具: 1
+  原料:
+    剪切粘贴工具: 1
+  用时: 0.0625
+加热塔:
+  产品:
+    加热塔: 1
+  原料:
+    混凝土: 20
+    热管: 5
+    锅炉: 2
+  用时: 10
+加热塔回收:
+  产品:
+    混凝土: 5
+    热管: 1.25
+    锅炉: 0.5
+  原料:
+    加热塔: 1
+  用时: 0.625
+动力护甲:
+  产品:
+    动力护甲: 1
+  原料:
+    处理单元: 40
+    电动机单元: 20
+    钢板: 40
+  用时: 20
+动力护甲MK2:
+  产品:
+    动力护甲MK2: 1
+  原料:
+    低密度结构: 30
+    处理单元: 60
+    效率模块: 100
+    电动机单元: 40
+    速度模块: 100
+  用时: 25
+动力护甲MK2回收:
+  产品:
+    低密度结构: 7.5
+    处理单元: 15
+    效率模块: 25
+    电动机单元: 10
+    速度模块: 25
+  原料:
+    动力护甲MK2: 1
+  用时: 1.5625
+动力护甲回收:
+  产品:
+    处理单元: 10
+    电动机单元: 5
+    钢板: 10
+  原料:
+    动力护甲: 1
+  用时: 1.25
+化学科学包:
+  产品:
+    化学科学包: 2
+  原料:
+    发动机单元: 2
+    硫磺: 1
+    高级电路: 3
+  用时: 24
+化学科学包回收:
+  产品:
+    化学科学包: 1
+  原料:
+    化学科学包: 1
+  用时: 1.5
+化工厂:
+  产品:
+    化工厂: 1
+  原料:
+    电子电路: 5
+    管道: 5
+    钢板: 5
+    铁齿轮: 5
+  用时: 5
+化工厂回收:
+  产品:
+    电子电路: 1.25
+    管道: 1.25
+    钢板: 1.25
+    铁齿轮: 1.25
+  原料:
+    化工厂: 1
+  用时: 0.3125
+升级计划回收:
+  产品:
+    升级计划: 1
+  原料:
+    升级计划: 1
+  用时: 0.0625
+危险混凝土:
+  产品:
+    危险混凝土: 10
+  原料:
+    混凝土: 10
+  用时: 0.25
+危险混凝土回收:
+  产品:
+    混凝土: 0.25
+  原料:
+    危险混凝土: 1
+  用时: 0.015625
+原子弹:
+  产品:
+    原子弹: 1
+  原料:
+    处理单元: 10
+    炸药: 10
+    铀-235: 100
+  用时: 50
+原子弹回收:
+  产品:
+    处理单元: 2.5
+    炸药: 2.5
+    铀-235: 25
+  原料:
+    原子弹: 1
+  用时: 3.125
+原油桶:
+  产品:
+    原油桶: 1
+  原料:
+    原油: 50
+    桶: 1
+  用时: 0.2
+原油桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    原油桶: 1
+  用时: 0.0125
+参数0:
+  产品: {}
+  原料: {}
+  用时: 0
+参数0回收:
+  产品:
+    参数0: 1
+  原料:
+    参数0: 1
+  用时: 0.0625
+参数1:
+  产品: {}
+  原料: {}
+  用时: 0
+参数1回收:
+  产品:
+    参数1: 1
+  原料:
+    参数1: 1
+  用时: 0.0625
+参数2:
+  产品: {}
+  原料: {}
+  用时: 0
+参数2回收:
+  产品:
+    参数2: 1
+  原料:
+    参数2: 1
+  用时: 0.0625
+参数3:
+  产品: {}
+  原料: {}
+  用时: 0
+参数3回收:
+  产品:
+    参数3: 1
+  原料:
+    参数3: 1
+  用时: 0.0625
+参数4:
+  产品: {}
+  原料: {}
+  用时: 0
+参数4回收:
+  产品:
+    参数4: 1
+  原料:
+    参数4: 1
+  用时: 0.0625
+参数5:
+  产品: {}
+  原料: {}
+  用时: 0
+参数5回收:
+  产品:
+    参数5: 1
+  原料:
+    参数5: 1
+  用时: 0.0625
+参数6:
+  产品: {}
+  原料: {}
+  用时: 0
+参数6回收:
+  产品:
+    参数6: 1
+  原料:
+    参数6: 1
+  用时: 0.0625
+参数7:
+  产品: {}
+  原料: {}
+  用时: 0
+参数7回收:
+  产品:
+    参数7: 1
+  原料:
+    参数7: 1
+  用时: 0.0625
+参数8:
+  产品: {}
+  原料: {}
+  用时: 0
+参数8回收:
+  产品:
+    参数8: 1
+  原料:
+    参数8: 1
+  用时: 0.0625
+参数9:
+  产品: {}
+  原料: {}
+  用时: 0
+参数9回收:
+  产品:
+    参数9: 1
+  原料:
+    参数9: 1
+  用时: 0.0625
+发动机单元:
+  产品:
+    发动机单元: 1
+  原料:
+    管道: 2
+    钢板: 1
+    铁齿轮: 1
+  用时: 10
+发动机单元回收:
+  产品:
+    管道: 0.5
+    钢板: 0.25
+    铁齿轮: 0.25
+  原料:
+    发动机单元: 1
+  用时: 0.625
+变电站:
+  产品:
+    变电站: 1
+  原料:
+    钢板: 10
+    铜线: 6
+    高级电路: 5
+  用时: 0
+变电站回收:
+  产品:
+    钢板: 2.5
+    铜线: 1.5
+    高级电路: 1.25
+  原料:
+    变电站: 1
+  用时: 0.0625
+可编程扬声器:
+  产品:
+    可编程扬声器: 1
+  原料:
+    电子电路: 4
+    铁板: 3
+    铁棒: 4
+    铜线: 5
+  用时: 2
+可编程扬声器回收:
+  产品:
+    电子电路: 1
+    铁板: 0.75
+    铁棒: 1
+    铜线: 1.25
+  原料:
+    可编程扬声器: 1
+  用时: 0.125
+咬人虫卵:
+  产品:
+    咬人虫卵: 5
+  原料: {}
+  用时: 10
+咬人虫卵回收:
+  产品:
+    咬人虫卵: 1
+  原料:
+    咬人虫卵: 1
+  用时: 0.625
+回收器:
+  产品:
+    回收器: 1
+  原料:
+    处理单元: 6
+    混凝土: 20
+    钢板: 20
+    铁齿轮: 40
+  用时: 3
+回收器回收:
+  产品:
+    处理单元: 1.5
+    混凝土: 5
+    钢板: 5
+    铁齿轮: 10
+  原料:
+    回收器: 1
+  用时: 0.1875
+固体燃料回收:
+  产品:
+    solid-fuel: 1
+  原料:
+    solid-fuel: 1
+  用时: 0.0625
+地下传送带:
+  产品:
+    地下传送带: 2
+  原料:
+    传送带: 5
+    铁板: 10
+  用时: 1
+地下传送带回收:
+  产品:
+    传送带: 0.625
+    铁板: 1.25
+  原料:
+    地下传送带: 1
+  用时: 0.0625
+地下管道:
+  产品:
+    地下管道: 2
+  原料:
+    管道: 10
+    铁板: 5
+  用时: 0
+地下管道回收:
+  产品:
+    管道: 1.25
+    铁板: 0.625
+  原料:
+    地下管道: 1
+  用时: 0.0625
+地雷:
+  产品:
+    地雷: 4
+  原料:
+    炸药: 2
+    钢板: 1
+  用时: 5
+地雷回收:
+  产品:
+    炸药: 0.125
+    钢板: 0.0625
+  原料:
+    地雷: 1
+  用时: 0.3125
+坦克:
+  产品:
+    坦克: 1
+  原料:
+    发动机单元: 32
+    钢板: 50
+    铁齿轮: 15
+    高级电路: 10
+  用时: 5
+坦克回收:
+  产品:
+    发动机单元: 8
+    钢板: 12.5
+    铁齿轮: 3.75
+    高级电路: 2.5
+  原料:
+    坦克: 1
+  用时: 0.3125
+坦克机枪回收:
+  产品:
+    坦克机枪: 1
+  原料:
+    坦克机枪: 1
+  用时: 0.0625
+坦克火焰喷射器回收:
+  产品:
+    坦克火焰喷射器: 1
+  原料:
+    坦克火焰喷射器: 1
+  用时: 0.0625
+坦克炮回收:
+  产品:
+    坦克炮: 1
+  原料:
+    坦克炮: 1
+  用时: 0.0625
+基础:
+  产品:
+    基础: 1
+  原料:
+    冷氟酮: 20
+    石矿: 20
+    碳纤维: 4
+    钨板: 4
+    锂板: 4
+  用时: 30
+基础回收:
+  产品:
+    石矿: 5
+    碳纤维: 1
+    钨板: 1
+    锂板: 1
+  原料:
+    基础: 1
+  用时: 1.875
+基础石油加工:
+  产品:
+    petroleum-gas: 45
+  原料:
+    原油: 100
+  用时: 5
+堆叠插入器:
+  产品:
+    堆叠插入器: 1
+  原料:
+    处理单元: 1
+    大容量插入器: 1
+    果冻: 10
+    碳纤维: 2
+  用时: 0.5
+堆叠插入器回收:
+  产品:
+    处理单元: 0.25
+    大容量插入器: 0.25
+    果冻: 2.5
+    碳纤维: 0.5
+  原料:
+    堆叠插入器: 1
+  用时: 0.03125
+塑料棒:
+  产品:
+    塑料棒: 2
+  原料:
+    petroleum-gas: 20
+    煤: 1
+  用时: 1
+塑料棒回收:
+  产品:
+    塑料棒: 1
+  原料:
+    塑料棒: 1
+  用时: 0.0625
+填埋场:
+  产品:
+    填埋场: 1
+  原料:
+    石矿: 50
+  用时: 0.5
+填埋场回收:
+  产品:
+    填埋场: 1
+  原料:
+    填埋场: 1
+  用时: 0.03125
+处理单元:
+  产品:
+    处理单元: 1
+  原料:
+    电子电路: 20
+    硫酸: 5
+    高级电路: 2
+  用时: 10
+处理单元回收:
+  产品:
+    电子电路: 5
+    高级电路: 0.5
+  原料:
+    处理单元: 1
+  用时: 0.625
+复制粘贴工具回收:
+  产品:
+    复制粘贴工具: 1
+  原料:
+    复制粘贴工具: 1
+  用时: 0.0625
+外骨骼设备:
+  产品:
+    外骨骼设备: 1
+  原料:
+    处理单元: 10
+    电动机单元: 30
+    钢板: 20
+  用时: 10
+外骨骼设备回收:
+  产品:
+    处理单元: 2.5
+    电动机单元: 7.5
+    钢板: 5
+  原料:
+    外骨骼设备: 1
+  用时: 0.625
+夜视设备:
+  产品:
+    夜视设备: 1
+  原料:
+    钢板: 10
+    高级电路: 5
+  用时: 10
+夜视设备回收:
+  产品:
+    钢板: 2.5
+    高级电路: 1.25
+  原料:
+    夜视设备: 1
+  用时: 0.625
+大型电线杆:
+  产品:
+    大型电线杆: 1
+  原料:
+    钢板: 5
+    铁棒: 8
+    铜线: 4
+  用时: 0
+大型电线杆回收:
+  产品:
+    钢板: 1.25
+    铁棒: 2
+    铜线: 1
+  原料:
+    大型电线杆: 1
+  用时: 0.0625
+大型采矿钻机:
+  产品:
+    大型采矿钻机: 1
+  原料:
+    熔融铁: 200
+    电动机单元: 10
+    电动采矿钻机: 1
+    碳化钨: 20
+    高级电路: 10
+  用时: 30
+大型采矿钻机回收:
+  产品:
+    电动机单元: 2.5
+    电动采矿钻机: 0.25
+    碳化钨: 5
+    高级电路: 2.5
+  原料:
+    大型采矿钻机: 1
+  用时: 1.875
+大容量插入器:
+  产品:
+    大容量插入器: 1
+  原料:
+    快速插入器: 1
+    电子电路: 15
+    铁齿轮: 15
+    高级电路: 1
+  用时: 0
+大容量插入器回收:
+  产品:
+    快速插入器: 0.25
+    电子电路: 3.75
+    铁齿轮: 3.75
+    高级电路: 0.25
+  原料:
+    大容量插入器: 1
+  用时: 0.0625
+太阳能板:
+  产品:
+    太阳能板: 1
+  原料:
+    电子电路: 15
+    钢板: 5
+    铜板: 5
+  用时: 10
+太阳能板回收:
+  产品:
+    电子电路: 3.75
+    钢板: 1.25
+    铜板: 1.25
+  原料:
+    太阳能板: 1
+  用时: 0.625
+太阳能板设备:
+  产品:
+    太阳能板设备: 1
+  原料:
+    太阳能板: 1
+    钢板: 5
+    高级电路: 2
+  用时: 10
+太阳能板设备回收:
+  产品:
+    太阳能板: 0.25
+    钢板: 1.25
+    高级电路: 0.5
+  原料:
+    太阳能板设备: 1
+  用时: 0.625
+实用科学包:
+  产品:
+    实用科学包: 3
+  原料:
+    低密度结构: 3
+    处理单元: 2
+    飞行机器人框架: 1
+  用时: 21
+实用科学包回收:
+  产品:
+    实用科学包: 1
+  原料:
+    实用科学包: 1
+  用时: 1.3125
+实验室:
+  产品:
+    实验室: 1
+  原料:
+    传送带: 4
+    电子电路: 10
+    铁齿轮: 10
+  用时: 2
+实验室回收:
+  产品:
+    传送带: 1
+    电子电路: 2.5
+    铁齿轮: 2.5
+  原料:
+    实验室: 1
+  用时: 0.125
+小型电线杆:
+  产品:
+    小型电线杆: 2
+  原料:
+    木材: 1
+    铜线: 2
+  用时: 0
+小型电线杆回收:
+  产品:
+    木材: 0.125
+    铜线: 0.25
+  原料:
+    小型电线杆: 1
+  用时: 0.0625
+小灯:
+  产品:
+    小灯: 1
+  原料:
+    电子电路: 1
+    铁板: 1
+    铜线: 3
+  用时: 0
+小灯回收:
+  产品:
+    电子电路: 0.25
+    铁板: 0.25
+    铜线: 0.75
+  原料:
+    小灯: 1
+  用时: 0.0625
+小行星收集器:
+  产品:
+    小行星收集器: 1
+  原料:
+    低密度结构: 20
+    处理单元: 5
+    电动机单元: 8
+  用时: 10
+小行星收集器回收:
+  产品:
+    低密度结构: 5
+    处理单元: 1.25
+    电动机单元: 2
+  原料:
+    小行星收集器: 1
+  用时: 0.625
+工具带设备:
+  产品:
+    工具带设备: 1
+  原料:
+    碳纤维: 10
+    高级电路: 3
+  用时: 10
+工具带设备回收:
+  产品:
+    碳纤维: 2.5
+    高级电路: 0.75
+  原料:
+    工具带设备: 1
+  用时: 0.625
+带有力量的简单实体回收:
+  产品:
+    带有力量的简单实体: 1
+  原料:
+    带有力量的简单实体: 1
+  用时: 0.0625
+带有所有者的简单实体回收:
+  产品:
+    带有所有者的简单实体: 1
+  原料:
+    带有所有者的简单实体: 1
+  用时: 0.0625
+常量组合器:
+  产品:
+    常量组合器: 1
+  原料:
+    电子电路: 2
+    铜线: 5
+  用时: 0
+常量组合器回收:
+  产品:
+    电子电路: 0.5
+    铜线: 1.25
+  原料:
+    常量组合器: 1
+  用时: 0.0625
+干扰者胶囊:
+  产品:
+    干扰者胶囊: 1
+  原料:
+    防御者胶囊: 4
+    高级电路: 3
+  用时: 15
+干扰者胶囊回收:
+  产品:
+    防御者胶囊: 1
+    高级电路: 0.75
+  原料:
+    干扰者胶囊: 1
+  用时: 0.9375
+废料回收:
+  产品:
+    废料: 1
+  原料:
+    废料: 1
+  用时: 0.0625
+建筑机器人:
+  产品:
+    建筑机器人: 1
+  原料:
+    电子电路: 2
+    飞行机器人框架: 1
+  用时: 0
+建筑机器人回收:
+  产品:
+    电子电路: 0.5
+    飞行机器人框架: 0.25
+  原料:
+    建筑机器人: 1
+  用时: 0.0625
+快速传送带:
+  产品:
+    快速传送带: 1
+  原料:
+    快速传送带: 1
+    润滑油: 20
+    铁齿轮: 10
+  用时: 0
+快速传送带回收:
+  产品:
+    快速传送带: 0.25
+    铁齿轮: 2.5
+  原料:
+    快速传送带: 1
+  用时: 0.0625
+快速分流器:
+  产品:
+    快速分流器: 1
+  原料:
+    分流器: 1
+    电子电路: 10
+    铁齿轮: 10
+  用时: 2
+快速分流器回收:
+  产品:
+    分流器: 0.25
+    电子电路: 2.5
+    铁齿轮: 2.5
+  原料:
+    快速分流器: 1
+  用时: 0.125
+快速地下传送带:
+  产品:
+    快速地下传送带: 2
+  原料:
+    地下传送带: 2
+    铁齿轮: 40
+  用时: 2
+快速地下传送带回收:
+  产品:
+    地下传送带: 0.25
+    铁齿轮: 5
+  原料:
+    快速地下传送带: 1
+  用时: 0.125
+快速插入器:
+  产品:
+    快速插入器: 1
+  原料:
+    插入器: 1
+    电子电路: 2
+    铁板: 2
+  用时: 0
+快速插入器回收:
+  产品:
+    插入器: 0.25
+    电子电路: 0.5
+    铁板: 0.5
+  原料:
+    快速插入器: 1
+  用时: 0.0625
+快速装载机:
+  产品:
+    快速装载机: 1
+  原料:
+    快速传送带: 5
+    装载机: 1
+  用时: 3
+快速装载机回收:
+  产品:
+    快速传送带: 1.25
+    快速装载机: 0.25
+  原料:
+    快速装载机: 1
+  用时: 0.625
+悬崖炸药:
+  产品:
+    悬崖炸药: 1
+  原料:
+    手榴弹: 1
+    方解石: 10
+    桶: 1
+    炸药: 10
+  用时: 8
+悬崖炸药回收:
+  产品:
+    手榴弹: 0.25
+    方解石: 2.5
+    桶: 0.25
+    炸药: 2.5
+  原料:
+    悬崖炸药: 1
+  用时: 0.5
+战斗霰弹枪:
+  产品:
+    战斗霰弹枪: 1
+  原料:
+    木材: 10
+    钢板: 15
+    铁齿轮: 5
+    铜板: 10
+  用时: 10
+战斗霰弹枪回收:
+  产品:
+    木材: 2.5
+    钢板: 3.75
+    铁齿轮: 1.25
+    铜板: 2.5
+  原料:
+    战斗霰弹枪: 1
+  用时: 0.625
+手枪:
+  产品:
+    手枪: 1
+  原料:
+    铁板: 5
+    铜板: 5
+  用时: 5
+手枪回收:
+  产品:
+    铁板: 1.25
+    铜板: 1.25
+  原料:
+    手枪: 1
+  用时: 0.3125
+手榴弹:
+  产品:
+    手榴弹: 1
+  原料:
+    煤: 10
+    铁板: 5
+  用时: 8
+手榴弹回收:
+  产品:
+    煤: 2.5
+    铁板: 1.25
+  原料:
+    手榴弹: 1
+  用时: 0.5
+抽油机:
+  产品:
+    抽油机: 1
+  原料:
+    电子电路: 5
+    管道: 10
+    钢板: 5
+    铁齿轮: 10
+  用时: 5
+抽油机回收:
+  产品:
+    电子电路: 1.25
+    管道: 2.5
+    钢板: 1.25
+    铁齿轮: 2.5
+  原料:
+    抽油机: 1
+  用时: 0.3125
+拆除计划回收:
+  产品:
+    拆除计划: 1
+  原料:
+    拆除计划: 1
+  用时: 0.0625
+捕捉机器人火箭:
+  产品:
+    捕捉机器人火箭: 1
+  原料:
+    处理单元: 2
+    生物流: 20
+    钢板: 2
+    飞行机器人框架: 1
+  用时: 10
+捕捉机器人火箭回收:
+  产品:
+    处理单元: 0.5
+    生物流: 5
+    钢板: 0.5
+    飞行机器人框架: 0.25
+  原料:
+    捕捉机器人火箭: 1
+  用时: 0.625
+推进器:
+  产品:
+    推进器: 1
+  原料:
+    处理单元: 10
+    电动机单元: 5
+    钢板: 10
+  用时: 10
+推进器回收:
+  产品:
+    处理单元: 2.5
+    电动机单元: 1.25
+    钢板: 2.5
+  原料:
+    推进器: 1
+  用时: 0.625
+推进器氧化剂:
+  产品:
+    推进器氧化剂: 75
+  原料:
+    水: 10
+    铁矿石: 2
+  用时: 2
+推进器燃料:
+  产品:
+    推进器燃料: 75
+  原料:
+    水: 10
+    碳: 2
+  用时: 2
+插入器:
+  产品:
+    插入器: 1
+  原料:
+    电子电路: 1
+    铁板: 1
+    铁齿轮: 1
+  用时: 0
+插入器回收:
+  产品:
+    电子电路: 0.25
+    铁板: 0.25
+    铁齿轮: 0.25
+  原料:
+    插入器: 1
+  用时: 0.0625
+放电防御设备:
+  产品:
+    放电防御设备: 1
+  原料:
+    处理单元: 5
+    激光塔: 10
+    钢板: 20
+  用时: 10
+放电防御设备回收:
+  产品:
+    处理单元: 1.25
+    激光塔: 2.5
+    钢板: 5
+  原料:
+    放电防御设备: 1
+  用时: 0.625
+放电防御遥控器回收:
+  产品:
+    放电防御遥控器: 1
+  原料:
+    放电防御遥控器: 1
+  用时: 0.0625
+效率模块:
+  产品:
+    效率模块: 1
+  原料:
+    电子电路: 5
+    高级电路: 5
+  用时: 15
+效率模块2:
+  产品:
+    效率模块2: 1
+  原料:
+    处理单元: 5
+    效率模块: 4
+    高级电路: 5
+  用时: 30
+效率模块2回收:
+  产品:
+    处理单元: 1.25
+    效率模块: 1
+    高级电路: 1.25
+  原料:
+    效率模块2: 1
+  用时: 1.875
+效率模块3:
+  产品:
+    效率模块3: 1
+  原料:
+    处理单元: 5
+    废料: 5
+    效率模块2: 4
+    高级电路: 5
+  用时: 60
+效率模块3回收:
+  产品:
+    处理单元: 1.25
+    废料: 1.25
+    效率模块2: 1
+    高级电路: 1.25
+  原料:
+    效率模块3: 1
+  用时: 3.75
+效率模块回收:
+  产品:
+    电子电路: 1.25
+    高级电路: 1.25
+  原料:
+    效率模块: 1
+  用时: 0.9375
+方解石回收:
+  产品:
+    方解石: 1
+  原料:
+    方解石: 1
+  用时: 0.0625
+无限管:
+  产品:
+    无限管: 1
+  原料:
+    电子电路: 5
+    管道: 1
+  用时: 0.5
+无限管回收:
+  产品:
+    电子电路: 1.25
+    管道: 0.25
+  原料:
+    无限管: 1
+  用时: 0.03125
+无限箱:
+  产品:
+    无限箱: 1
+  原料:
+    电子电路: 5
+    钢箱: 1
+  用时: 0.5
+无限箱回收:
+  产品:
+    电子电路: 1.25
+    钢箱: 0.25
+  原料:
+    无限箱: 1
+  用时: 0.03125
+显示面板:
+  产品:
+    显示面板: 1
+  原料:
+    电子电路: 1
+    铁板: 1
+  用时: 0
+显示面板回收:
+  产品:
+    电子电路: 0.25
+    铁板: 0.25
+  原料:
+    显示面板: 1
+  用时: 0.0625
+木材加工:
+  产品:
+    tree-seed: 1
+  原料:
+    木材: 2
+  用时: 2
+木材回收:
+  产品:
+    木材: 1
+  原料:
+    木材: 1
+  用时: 0.0625
+木箱:
+  产品:
+    木箱: 1
+  原料:
+    木材: 2
+  用时: 0
+木箱回收:
+  产品:
+    木材: 0.5
+  原料:
+    木箱: 1
+  用时: 0.0625
+未知物品回收:
+  产品:
+    未知物品: 1
+  原料:
+    未知物品: 1
+  用时: 0.0625
+未知配方:
+  产品: {}
+  原料: {}
+  用时: 0
+机器人港:
+  产品:
+    机器人港: 1
+  原料:
+    钢板: 45
+    铁齿轮: 45
+    高级电路: 45
+  用时: 5
+机器人港回收:
+  产品:
+    钢板: 11.25
+    铁齿轮: 11.25
+    高级电路: 11.25
+  原料:
+    机器人港: 1
+  用时: 0.3125
+机甲护甲:
+  产品:
+    机甲护甲: 1
+  原料:
+    动力护甲MK2: 1
+    处理单元: 100
+    超导体: 50
+    超级电容器: 50
+    钬板: 200
+  用时: 60
+机甲护甲回收:
+  产品:
+    动力护甲MK2: 0.25
+    处理单元: 25
+    超导体: 12.5
+    超级电容器: 12.5
+    钬板: 50
+  原料:
+    机甲护甲: 1
+  用时: 3.75
+果冻制火箭燃料:
+  产品:
+    火箭燃料: 1
+  原料:
+    果冻: 30
+    水: 30
+    生物流: 2
+  用时: 10
+果冻回收:
+  产品:
+    果冻: 1
+  原料:
+    果冻: 1
+  用时: 0.0625
+果冻坚果加工:
+  产品:
+    果冻: 4
+    果冻坚果种子: 1
+  原料:
+    果冻坚果: 1
+  用时: 1
+果冻坚果回收:
+  产品:
+    果冻坚果: 1
+  原料:
+    果冻坚果: 1
+  用时: 0.0625
+果冻坚果种子回收:
+  产品:
+    果冻坚果种子: 1
+  原料:
+    果冻坚果种子: 1
+  用时: 0.0625
+枪塔:
+  产品:
+    枪塔: 1
+  原料:
+    铁板: 20
+    铁齿轮: 10
+    铜板: 10
+  用时: 8
+枪塔回收:
+  产品:
+    铁板: 5
+    铁齿轮: 2.5
+    铜板: 2.5
+  原料:
+    枪塔: 1
+  用时: 0.5
+枪械弹匣:
+  产品:
+    枪械弹匣: 1
+  原料:
+    铁板: 4
+  用时: 1
+枪械弹匣回收:
+  产品:
+    铁板: 1
+  原料:
+    枪械弹匣: 1
+  用时: 0.0625
+树种子回收:
+  产品:
+    tree-seed: 1
+  原料:
+    tree-seed: 1
+  用时: 0.0625
+核反应堆:
+  产品:
+    核反应堆: 1
+  原料:
+    混凝土: 500
+    钢板: 500
+    铜板: 500
+    高级电路: 500
+  用时: 8
+核反应堆回收:
+  产品:
+    混凝土: 125
+    钢板: 125
+    铜板: 125
+    高级电路: 125
+  原料:
+    核反应堆: 1
+  用时: 0.5
+核燃料:
+  产品:
+    核燃料: 1
+  原料:
+    火箭燃料: 1
+    铀-235: 1
+  用时: 90
+核燃料再处理:
+  产品:
+    铀-238: 3
+  原料:
+    贫铀燃料电池: 5
+  用时: 60
+核燃料回收:
+  产品:
+    火箭燃料: 0.25
+    铀-235: 0.25
+  原料:
+    核燃料: 1
+  用时: 5.625
+桶:
+  产品:
+    桶: 1
+  原料:
+    钢板: 1
+  用时: 1
+桶回收:
+  产品:
+    钢板: 0.25
+  原料:
+    桶: 1
+  用时: 0.0625
+模块化护甲:
+  产品:
+    模块化护甲: 1
+  原料:
+    钢板: 50
+    高级电路: 30
+  用时: 15
+模块化护甲回收:
+  产品:
+    钢板: 12.5
+    高级电路: 7.5
+  原料:
+    模块化护甲: 1
+  用时: 0.9375
+毁灭者胶囊:
+  产品:
+    毁灭者胶囊: 1
+  原料:
+    处理单元: 1
+    干扰者胶囊: 4
+    钢板: 4
+  用时: 15
+毁灭者胶囊回收:
+  产品:
+    处理单元: 0.25
+    干扰者胶囊: 1
+    钢板: 1
+  原料:
+    毁灭者胶囊: 1
+  用时: 0.9375
+毒药胶囊:
+  产品:
+    毒药胶囊: 1
+  原料:
+    煤: 10
+    电子电路: 3
+    钢板: 3
+  用时: 8
+毒药胶囊回收:
+  产品:
+    煤: 2.5
+    电子电路: 0.75
+    钢板: 0.75
+  原料:
+    毒药胶囊: 1
+  用时: 0.5
+氟酮:
+  产品:
+    热氟酮: 50
+  原料:
+    solid-fuel: 1
+    氟: 50
+    氨: 50
+    锂: 1
+  用时: 10
+氟酮冷却:
+  产品:
+    冷氟酮: 10
+  原料:
+    热氟酮: 10
+  用时: 5
+氧化物小行星再处理:
+  产品:
+    氧化物小行星块: 1
+    碳质小行星块: 1
+    金属小行星块: 1
+  原料:
+    氧化物小行星块: 1
+  用时: 1
+氧化物小行星块回收:
+  产品:
+    氧化物小行星块: 1
+  原料:
+    氧化物小行星块: 1
+  用时: 0.0625
+氧化物小行星破碎:
+  产品:
+    冰: 5
+    氧化物小行星块: 1
+  原料:
+    氧化物小行星块: 1
+  用时: 2
+氨制固体燃料:
+  产品:
+    solid-fuel: 1
+  原料:
+    原油: 20
+    氨: 50
+  用时: 1
+氨溶液分离:
+  产品:
+    冰: 5
+    氨: 50
+  原料:
+    氨溶液: 50
+  用时: 1
+氨火箭燃料:
+  产品:
+    火箭燃料: 1
+  原料:
+    solid-fuel: 3
+    氨: 500
+    水: 50
+  用时: 10
+水桶:
+  产品:
+    水桶: 1
+  原料:
+    桶: 1
+    水: 50
+  用时: 0.2
+水桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    水桶: 1
+  用时: 0.0125
+汽车:
+  产品:
+    汽车: 1
+  原料:
+    发动机单元: 8
+    钢板: 5
+    铁板: 20
+  用时: 2
+汽车回收:
+  产品:
+    发动机单元: 2
+    钢板: 1.25
+    铁板: 5
+  原料:
+    汽车: 1
+  用时: 0.125
+泵:
+  产品:
+    泵: 1
+  原料:
+    发动机单元: 1
+    管道: 1
+    钢板: 1
+  用时: 2
+泵回收:
+  产品:
+    发动机单元: 0.25
+    管道: 0.25
+    钢板: 0.25
+  原料:
+    泵: 1
+  用时: 0.125
+涡轮传送带:
+  产品:
+    涡轮传送带: 1
+  原料:
+    快速传送带: 1
+    润滑油: 20
+    钨板: 5
+  用时: 0
+涡轮传送带回收:
+  产品:
+    快速传送带: 0.25
+    钨板: 1.25
+  原料:
+    涡轮传送带: 1
+  用时: 0.0625
+涡轮分流器:
+  产品:
+    涡轮分流器: 1
+  原料:
+    处理单元: 2
+    快速分流器: 1
+    润滑油: 80
+    钨板: 15
+  用时: 2
+涡轮分流器回收:
+  产品:
+    处理单元: 0.5
+    快速分流器: 0.25
+    钨板: 3.75
+  原料:
+    涡轮分流器: 1
+  用时: 0.125
+涡轮地下传送带:
+  产品:
+    涡轮地下传送带: 2
+  原料:
+    快速地下传送带: 2
+    润滑油: 40
+    钨板: 40
+  用时: 2
+涡轮地下传送带回收:
+  产品:
+    快速地下传送带: 0.25
+    钨板: 5
+  原料:
+    涡轮地下传送带: 1
+  用时: 0.125
+涡轮装载机:
+  产品:
+    涡轮装载机: 1
+  原料:
+    快速装载机: 1
+    涡轮传送带: 5
+  用时: 20
+涡轮装载机回收:
+  产品:
+    快速装载机: 0.25
+    涡轮传送带: 1.25
+  原料:
+    涡轮装载机: 1
+  用时: 1.25
+润滑油:
+  产品:
+    润滑油: 10
+  原料:
+    heavy-oil: 10
+  用时: 1
+润滑油桶:
+  产品:
+    润滑油桶: 1
+  原料:
+    桶: 1
+    润滑油: 50
+  用时: 0.2
+润滑油桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    润滑油桶: 1
+  用时: 0.0125
+液体货车:
+  产品:
+    液体货车: 1
+  原料:
+    储罐: 1
+    管道: 8
+    钢板: 16
+    铁齿轮: 10
+  用时: 1.5
+液体货车回收:
+  产品:
+    储罐: 0.25
+    管道: 2
+    钢板: 4
+    铁齿轮: 2.5
+  原料:
+    液体货车: 1
+  用时: 0.09375
+混凝土:
+  产品:
+    混凝土: 10
+  原料:
+    水: 100
+    石砖: 5
+    铁矿石: 1
+  用时: 10
+混凝土回收:
+  产品:
+    石砖: 0.125
+    铁矿石: 0.025
+  原料:
+    混凝土: 1
+  用时: 0.625
+激光塔:
+  产品:
+    激光塔: 1
+  原料:
+    电子电路: 20
+    电池: 12
+    钢板: 20
+  用时: 20
+激光塔回收:
+  产品:
+    电子电路: 5
+    电池: 3
+    钢板: 5
+  原料:
+    激光塔: 1
+  用时: 1.25
+火焰喷射器:
+  产品:
+    火焰喷射器: 1
+  原料:
+    钢板: 5
+    铁齿轮: 10
+  用时: 10
+火焰喷射器回收:
+  产品:
+    钢板: 1.25
+    铁齿轮: 2.5
+  原料:
+    火焰喷射器: 1
+  用时: 0.625
+火焰喷射器弹药:
+  产品:
+    火焰喷射器弹药: 1
+  原料:
+    原油: 100
+    钢板: 5
+  用时: 6
+火焰喷射器弹药回收:
+  产品:
+    火焰喷射器弹药: 1
+  原料:
+    火焰喷射器弹药: 1
+  用时: 0.375
+火焰喷射塔:
+  产品:
+    火焰喷射塔: 1
+  原料:
+    发动机单元: 5
+    管道: 10
+    钢板: 30
+    铁齿轮: 15
+  用时: 20
+火焰喷射塔回收:
+  产品:
+    发动机单元: 1.25
+    管道: 2.5
+    钢板: 7.5
+    铁齿轮: 3.75
+  原料:
+    火焰喷射塔: 1
+  用时: 1.25
+火箭:
+  产品:
+    火箭: 1
+  原料:
+    炸药: 1
+    铁板: 2
+  用时: 4
+火箭发射井:
+  产品:
+    火箭发射井: 1
+  原料:
+    处理单元: 200
+    混凝土: 1000
+    电动机单元: 200
+    管道: 100
+    钢板: 1000
+  用时: 30
+火箭发射井回收:
+  产品:
+    处理单元: 50
+    混凝土: 250
+    电动机单元: 50
+    管道: 25
+    钢板: 250
+  原料:
+    火箭发射井: 1
+  用时: 1.875
+火箭发射器:
+  产品:
+    火箭发射器: 1
+  原料:
+    电子电路: 5
+    铁板: 5
+    铁齿轮: 5
+  用时: 10
+火箭发射器回收:
+  产品:
+    电子电路: 1.25
+    铁板: 1.25
+    铁齿轮: 1.25
+  原料:
+    火箭发射器: 1
+  用时: 0.625
+火箭回收:
+  产品:
+    炸药: 0.25
+    铁板: 0.5
+  原料:
+    火箭: 1
+  用时: 0.25
+火箭炮塔:
+  产品:
+    火箭炮塔: 1
+  原料:
+    处理单元: 4
+    火箭发射器: 4
+    碳纤维: 20
+    钢板: 20
+    铁齿轮: 20
+  用时: 10
+火箭炮塔回收:
+  产品:
+    处理单元: 1
+    火箭发射器: 1
+    碳纤维: 5
+    钢板: 5
+    铁齿轮: 5
+  原料:
+    火箭炮塔: 1
+  用时: 0.625
+火箭燃料:
+  产品:
+    火箭燃料: 1
+  原料:
+    light-oil: 10
+    solid-fuel: 10
+  用时: 15
+火箭燃料回收:
+  产品:
+    solid-fuel: 2.5
+  原料:
+    火箭燃料: 1
+  用时: 0.9375
+火箭部件:
+  产品:
+    火箭部件: 1
+  原料:
+    低密度结构: 1
+    处理单元: 1
+    火箭燃料: 1
+  用时: 3
+火箭部件回收:
+  产品:
+    低密度结构: 0.25
+    处理单元: 0.25
+    火箭燃料: 0.25
+  原料:
+    火箭部件: 1
+  用时: 0.1875
+火车头:
+  产品:
+    火车头: 1
+  原料:
+    发动机单元: 20
+    电子电路: 10
+    钢板: 30
+  用时: 4
+火车头回收:
+  产品:
+    发动机单元: 5
+    电子电路: 2.5
+    钢板: 7.5
+  原料:
+    火车头: 1
+  用时: 0.25
+火车站:
+  产品:
+    火车站: 1
+  原料:
+    电子电路: 5
+    钢板: 3
+    铁板: 6
+    铁棒: 6
+  用时: 0
+火车站回收:
+  产品:
+    电子电路: 1.25
+    钢板: 0.75
+    铁板: 1.5
+    铁棒: 1.5
+  原料:
+    火车站: 1
+  用时: 0.0625
+炮兵瞄准遥控器回收:
+  产品:
+    炮兵瞄准遥控器: 1
+  原料:
+    炮兵瞄准遥控器: 1
+  用时: 0.0625
+炮塔:
+  产品:
+    炮塔: 1
+  原料:
+    处理单元: 10
+    精炼混凝土: 60
+    钨板: 60
+    铁齿轮: 40
+  用时: 40
+炮塔回收:
+  产品:
+    处理单元: 2.5
+    精炼混凝土: 15
+    钨板: 15
+    铁齿轮: 10
+  原料:
+    炮塔: 1
+  用时: 2.5
+炮弹:
+  产品:
+    炮弹: 1
+  原料:
+    塑料棒: 2
+    炸药: 1
+    钢板: 2
+  用时: 8
+炮弹回收:
+  产品:
+    方解石: 0.25
+    炸药: 2
+    钨板: 1
+    雷达: 0.25
+  原料:
+    炮弹: 1
+  用时: 0.9375
+炮车:
+  产品:
+    炮车: 1
+  原料:
+    发动机单元: 60
+    处理单元: 10
+    精炼混凝土: 60
+    钨板: 60
+    铁齿轮: 40
+  用时: 4
+炮车回收:
+  产品:
+    发动机单元: 15
+    处理单元: 2.5
+    精炼混凝土: 15
+    钨板: 15
+    铁齿轮: 10
+  原料:
+    炮车: 1
+  用时: 0.25
+炮车炮回收:
+  产品:
+    炮车炮: 1
+  原料:
+    炮车炮: 1
+  用时: 0.0625
+炸药:
+  产品:
+    炸药: 2
+  原料:
+    水: 10
+    煤: 1
+    硫磺: 1
+  用时: 4
+炸药回收:
+  产品:
+    炸药: 1
+  原料:
+    炸药: 1
+  用时: 0.25
+炼油厂:
+  产品:
+    炼油厂: 1
+  原料:
+    电子电路: 10
+    石砖: 10
+    管道: 10
+    钢板: 15
+    铁齿轮: 10
+  用时: 8
+炼油厂回收:
+  产品:
+    电子电路: 2.5
+    石砖: 2.5
+    管道: 2.5
+    钢板: 3.75
+    铁齿轮: 2.5
+  原料:
+    炼油厂: 1
+  用时: 0.5
+烧毁的废料:
+  产品:
+    碳: 1
+  原料:
+    废料: 6
+  用时: 12
+热交换器:
+  产品:
+    热交换器: 1
+  原料:
+    管道: 10
+    钢板: 10
+    铜板: 100
+  用时: 3
+热交换器回收:
+  产品:
+    管道: 2.5
+    钢板: 2.5
+    铜板: 25
+  原料:
+    热交换器: 1
+  用时: 0.1875
+热接口:
+  产品:
+    热接口: 1
+  原料:
+    热管: 1
+    电子电路: 5
+  用时: 0.5
+热接口回收:
+  产品:
+    热管: 0.25
+    电子电路: 1.25
+  原料:
+    热接口: 1
+  用时: 0.03125
+热氟酮桶:
+  产品:
+    热氟酮桶: 1
+  原料:
+    桶: 1
+    热氟酮: 50
+  用时: 0.2
+热氟酮桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    热氟酮桶: 1
+  用时: 0.0125
+热管:
+  产品:
+    热管: 1
+  原料:
+    钢板: 10
+    铜板: 20
+  用时: 1
+热管回收:
+  产品:
+    钢板: 2.5
+    铜板: 5
+  原料:
+    热管: 1
+  用时: 0.0625
+煤合成:
+  产品:
+    煤: 1
+  原料:
+    水: 10
+    硫磺: 1
+    碳: 5
+  用时: 2
+煤回收:
+  产品:
+    煤: 1
+  原料:
+    煤: 1
+  用时: 0.0625
+煤液化:
+  产品:
+    heavy-oil: 90
+    light-oil: 20
+    petroleum-gas: 10
+  原料:
+    heavy-oil: 25
+    steam: 50
+    煤: 10
+  用时: 5
+熔岩制熔融铁:
+  产品:
+    熔融铁: 250
+    石矿: 10
+  原料:
+    lava: 500
+    方解石: 1
+  用时: 16
+熔岩制熔融铜:
+  产品:
+    熔融铜: 250
+    石矿: 15
+  原料:
+    lava: 500
+    方解石: 1
+  用时: 16
+熔融铁:
+  产品:
+    熔融铁: 500
+  原料:
+    方解石: 1
+    铁矿石: 50
+  用时: 32
+熔融铜:
+  产品:
+    熔融铜: 500
+  原料:
+    copper-ore: 50
+    方解石: 1
+  用时: 32
+熔铁制混凝土:
+  产品:
+    混凝土: 10
+  原料:
+    水: 100
+    熔融铁: 20
+    石砖: 5
+  用时: 10
+燃烧发电机回收:
+  产品:
+    burner-generator: 1
+  原料:
+    burner-generator: 1
+  用时: 0.0625
+燃烧插入器:
+  产品:
+    燃烧插入器: 1
+  原料:
+    铁板: 1
+    铁齿轮: 1
+  用时: 0
+燃烧插入器回收:
+  产品:
+    铁板: 0.25
+    铁齿轮: 0.25
+  原料:
+    燃烧插入器: 1
+  用时: 0.0625
+燃烧采矿钻机:
+  产品:
+    燃烧采矿钻机: 1
+  原料:
+    石炉: 1
+    铁板: 3
+    铁齿轮: 3
+  用时: 2
+燃烧采矿钻机回收:
+  产品:
+    石炉: 0.25
+    铁板: 0.75
+    铁齿轮: 0.75
+  原料:
+    燃烧采矿钻机: 1
+  用时: 0.125
+爆炸火箭:
+  产品:
+    爆炸火箭: 1
+  原料:
+    火箭: 1
+    炸药: 2
+  用时: 8
+爆炸火箭回收:
+  产品:
+    火箭: 0.25
+    炸药: 0.5
+  原料:
+    爆炸火箭: 1
+  用时: 0.5
+爆炸炮弹:
+  产品:
+    爆炸炮弹: 1
+  原料:
+    塑料棒: 2
+    炸药: 2
+    钢板: 2
+  用时: 8
+爆炸炮弹回收:
+  产品:
+    塑料棒: 0.5
+    炸药: 0.5
+    钢板: 0.5
+  原料:
+    爆炸炮弹: 1
+  用时: 0.5
+爆炸铀炮弹:
+  产品:
+    爆炸铀炮弹: 1
+  原料:
+    爆炸炮弹: 1
+    铀-238: 1
+  用时: 12
+爆炸铀炮弹回收:
+  产品:
+    爆炸炮弹: 0.25
+    铀-238: 0.25
+  原料:
+    爆炸铀炮弹: 1
+  用时: 0.75
+物流机器人:
+  产品:
+    物流机器人: 1
+  原料:
+    飞行机器人框架: 1
+    高级电路: 2
+  用时: 0
+物流机器人回收:
+  产品:
+    飞行机器人框架: 0.25
+    高级电路: 0.5
+  原料:
+    物流机器人: 1
+  用时: 0.0625
+物流科学包:
+  产品:
+    物流科学包: 1
+  原料:
+    传送带: 1
+    插入器: 1
+  用时: 6
+物流科学包回收:
+  产品:
+    物流科学包: 1
+  原料:
+    物流科学包: 1
+  用时: 0.375
+特斯拉弹药:
+  产品:
+    特斯拉弹药: 1
+  原料:
+    塑料棒: 1
+    电解质: 10
+    超级电容器: 1
+  用时: 30
+特斯拉弹药回收:
+  产品:
+    塑料棒: 0.25
+    超级电容器: 0.25
+  原料:
+    特斯拉弹药: 1
+  用时: 1.875
+特斯拉枪:
+  产品:
+    特斯拉枪: 1
+  原料:
+    塑料棒: 30
+    电解质: 100
+    超导体: 10
+    钬板: 10
+  用时: 30
+特斯拉枪回收:
+  产品:
+    塑料棒: 7.5
+    超导体: 2.5
+    钬板: 2.5
+  原料:
+    特斯拉枪: 1
+  用时: 1.875
+特斯拉炮塔:
+  产品:
+    特斯拉炮塔: 1
+  原料:
+    处理单元: 10
+    特斯拉枪: 1
+    电解质: 500
+    超导体: 50
+    超级电容器: 10
+  用时: 30
+特斯拉炮塔回收:
+  产品:
+    处理单元: 2.5
+    特斯拉枪: 0.25
+    超导体: 12.5
+    超级电容器: 2.5
+  原料:
+    特斯拉炮塔: 1
+  用时: 1.875
+生产模块:
+  产品:
+    生产模块: 1
+  原料:
+    电子电路: 5
+    高级电路: 5
+  用时: 15
+生产模块2:
+  产品:
+    生产模块2: 1
+  原料:
+    处理单元: 5
+    生产模块: 4
+    高级电路: 5
+  用时: 30
+生产模块2回收:
+  产品:
+    处理单元: 1.25
+    生产模块: 1
+    高级电路: 1.25
+  原料:
+    生产模块2: 1
+  用时: 1.875
+生产模块3:
+  产品:
+    生产模块3: 1
+  原料:
+    咬人虫卵: 1
+    处理单元: 5
+    生产模块2: 4
+    高级电路: 5
+  用时: 60
+生产模块3回收:
+  产品:
+    咬人虫卵: 0.25
+    处理单元: 1.25
+    生产模块2: 1
+    高级电路: 1.25
+  原料:
+    生产模块3: 1
+  用时: 3.75
+生产模块回收:
+  产品:
+    电子电路: 1.25
+    高级电路: 1.25
+  原料:
+    生产模块: 1
+  用时: 0.9375
+生产科学包:
+  产品:
+    生产科学包: 3
+  原料:
+    生产模块: 1
+    电炉: 1
+    铁轨: 30
+  用时: 21
+生产科学包回收:
+  产品:
+    生产科学包: 1
+  原料:
+    生产科学包: 1
+  用时: 1.3125
+生物塑料:
+  产品:
+    塑料棒: 3
+  原料:
+    优马科浆: 4
+    生物流: 1
+  用时: 2
+生物实验室:
+  产品:
+    生物实验室: 1
+  原料:
+    咬人虫卵: 10
+    实验室: 1
+    捕捉机器人火箭: 2
+    精炼混凝土: 25
+    铀-235: 3
+  用时: 10
+生物实验室回收:
+  产品:
+    生物实验室: 1
+  原料:
+    生物实验室: 1
+  用时: 0.625
+生物流:
+  产品:
+    生物流: 4
+  原料:
+    优马科浆: 15
+    果冻: 12
+  用时: 6
+生物流回收:
+  产品:
+    生物流: 1
+  原料:
+    生物流: 1
+  用时: 0.375
+生物润滑剂:
+  产品:
+    润滑油: 20
+  原料:
+    果冻: 60
+  用时: 3
+生物硫:
+  产品:
+    硫磺: 2
+  原料:
+    废料: 5
+    生物流: 1
+  用时: 2
+生物舱:
+  产品:
+    生物舱: 1
+  原料:
+    五足虫卵: 1
+    填埋场: 1
+    电子电路: 5
+    营养粉: 5
+    铁板: 20
+  用时: 20
+生物舱回收:
+  产品:
+    五足虫卵: 0.25
+    填埋场: 0.25
+    电子电路: 1.25
+    营养粉: 1.25
+    铁板: 5
+  原料:
+    生物舱: 1
+  用时: 1.25
+生鱼回收:
+  产品:
+    生鱼: 1
+  原料:
+    生鱼: 1
+  用时: 0.0625
+电动机单元:
+  产品:
+    电动机单元: 1
+  原料:
+    发动机单元: 1
+    润滑油: 15
+    电子电路: 2
+  用时: 10
+电动机单元回收:
+  产品:
+    发动机单元: 0.25
+    电子电路: 0.5
+  原料:
+    电动机单元: 1
+  用时: 0.625
+电动采矿钻机:
+  产品:
+    电动采矿钻机: 1
+  原料:
+    电子电路: 3
+    铁板: 10
+    铁齿轮: 5
+  用时: 2
+电动采矿钻机回收:
+  产品:
+    电子电路: 0.75
+    铁板: 2.5
+    铁齿轮: 1.25
+  原料:
+    电动采矿钻机: 1
+  用时: 0.125
+电子电路:
+  产品:
+    电子电路: 1
+  原料:
+    铁板: 1
+    铜线: 3
+  用时: 0
+电子电路回收:
+  产品:
+    铁板: 0.25
+    铜线: 0.75
+  原料:
+    电子电路: 1
+  用时: 0.0625
+电池:
+  产品:
+    电池: 1
+  原料:
+    硫酸: 20
+    铁板: 1
+    铜板: 1
+  用时: 4
+电池回收:
+  产品:
+    铁板: 0.25
+    铜板: 0.25
+  原料:
+    电池: 1
+  用时: 0.25
+电池设备:
+  产品:
+    电池设备: 1
+  原料:
+    电池: 5
+    钢板: 10
+  用时: 10
+电池设备MK2:
+  产品:
+    电池设备MK2: 1
+  原料:
+    低密度结构: 5
+    处理单元: 15
+    电池设备: 10
+  用时: 10
+电池设备MK2回收:
+  产品:
+    低密度结构: 1.25
+    处理单元: 3.75
+    电池设备: 2.5
+  原料:
+    电池设备MK2: 1
+  用时: 0.625
+电池设备MK3:
+  产品:
+    电池设备MK3: 1
+  原料:
+    电池设备MK2: 5
+    超级电容器: 10
+  用时: 10
+电池设备MK3回收:
+  产品:
+    电池设备MK2: 1.25
+    超级电容器: 2.5
+  原料:
+    电池设备MK3: 1
+  用时: 0.625
+电池设备回收:
+  产品:
+    电池: 1.25
+    钢板: 2.5
+  原料:
+    电池设备: 1
+  用时: 0.625
+电源开关:
+  产品:
+    电源开关: 1
+  原料:
+    电子电路: 2
+    铁板: 5
+    铜线: 5
+  用时: 2
+电源开关回收:
+  产品:
+    电子电路: 0.5
+    铁板: 1.25
+    铜线: 1.25
+  原料:
+    电源开关: 1
+  用时: 0.125
+电炉:
+  产品:
+    电炉: 1
+  原料:
+    石砖: 10
+    钢板: 10
+    高级电路: 5
+  用时: 5
+电炉回收:
+  产品:
+    石砖: 2.5
+    钢板: 2.5
+    高级电路: 1.25
+  原料:
+    电炉: 1
+  用时: 0.3125
+电磁工厂:
+  产品:
+    电磁工厂: 1
+  原料:
+    处理单元: 50
+    精炼混凝土: 50
+    钢板: 50
+    钬板: 150
+  用时: 10
+电磁工厂回收:
+  产品:
+    处理单元: 12.5
+    精炼混凝土: 12.5
+    钢板: 12.5
+    钬板: 37.5
+  原料:
+    电磁工厂: 1
+  用时: 0.625
+电磁科学包:
+  产品:
+    电磁科学包: 1
+  原料:
+    电解质: 25
+    蓄电池: 1
+    超级电容器: 1
+    钬溶液: 25
+  用时: 10
+电磁科学包回收:
+  产品:
+    电磁科学包: 1
+  原料:
+    电磁科学包: 1
+  用时: 0.625
+电磁轨道炮:
+  产品:
+    电磁轨道炮: 1
+  原料:
+    冷氟酮: 10
+    超导体: 10
+    量子处理器: 20
+    钨板: 10
+  用时: 10
+电磁轨道炮回收:
+  产品:
+    超导体: 2.5
+    量子处理器: 5
+    钨板: 2.5
+  原料:
+    电磁轨道炮: 1
+  用时: 0.625
+电磁轨道炮塔:
+  产品:
+    电磁轨道炮塔: 1
+  原料:
+    冷氟酮: 100
+    碳纤维: 20
+    超导体: 50
+    量子处理器: 100
+    钨板: 30
+  用时: 10
+电磁轨道炮塔回收:
+  产品:
+    碳纤维: 5
+    超导体: 12.5
+    量子处理器: 25
+    钨板: 7.5
+  原料:
+    电磁轨道炮塔: 1
+  用时: 0.625
+电磁轨道炮弹药:
+  产品:
+    电磁轨道炮弹药: 1
+  原料:
+    炸药: 2
+    钢板: 5
+    铜线: 10
+  用时: 25
+电磁轨道炮弹药回收:
+  产品:
+    炸药: 0.5
+    钢板: 1.25
+    铜线: 2.5
+  原料:
+    电磁轨道炮弹药: 1
+  用时: 1.5625
+电能接口回收:
+  产品:
+    电能接口: 1
+  原料:
+    电能接口: 1
+  用时: 0.0625
+电解质:
+  产品:
+    电解质: 10
+  原料:
+    heavy-oil: 10
+    石矿: 1
+    钬溶液: 10
+  用时: 5
+石墙:
+  产品:
+    石墙: 1
+  原料:
+    石砖: 5
+  用时: 0
+石墙回收:
+  产品:
+    石砖: 1.25
+  原料:
+    石墙: 1
+  用时: 0.0625
+石头回收:
+  产品:
+    石矿: 1
+  原料:
+    石矿: 1
+  用时: 0.0625
+石油气制固体燃料:
+  产品:
+    solid-fuel: 1
+  原料:
+    petroleum-gas: 20
+  用时: 1
+石油气桶:
+  产品:
+    石油气桶: 1
+  原料:
+    petroleum-gas: 50
+    桶: 1
+  用时: 0.2
+石油气桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    石油气桶: 1
+  用时: 0.0125
+石炉:
+  产品:
+    石炉: 1
+  原料:
+    石矿: 5
+  用时: 0
+石炉回收:
+  产品:
+    石矿: 1.25
+  原料:
+    石炉: 1
+  用时: 0.0625
+石砖:
+  产品:
+    石砖: 1
+  原料:
+    石矿: 2
+  用时: 3.2
+石砖回收:
+  产品:
+    石砖: 1
+  原料:
+    石砖: 1
+  用时: 0.2
+破碎机:
+  产品:
+    破碎机: 1
+  原料:
+    低密度结构: 20
+    电动机单元: 10
+    钢板: 10
+  用时: 10
+破碎机回收:
+  产品:
+    低密度结构: 5
+    电动机单元: 2.5
+    钢板: 2.5
+  原料:
+    破碎机: 1
+  用时: 0.625
+硫磺:
+  产品:
+    硫磺: 2
+  原料:
+    petroleum-gas: 30
+    水: 30
+  用时: 1
+硫磺回收:
+  产品:
+    硫磺: 1
+  原料:
+    硫磺: 1
+  用时: 0.0625
+硫酸:
+  产品:
+    硫酸: 50
+  原料:
+    水: 100
+    硫磺: 5
+    铁板: 1
+  用时: 1
+硫酸桶:
+  产品:
+    硫酸桶: 1
+  原料:
+    桶: 1
+    硫酸: 50
+  用时: 0.2
+硫酸桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    硫酸桶: 1
+  用时: 0.0125
+硬币回收:
+  产品:
+    硬币: 1
+  原料:
+    硬币: 1
+  用时: 0.0625
+碳:
+  产品:
+    碳: 1
+  原料:
+    煤: 2
+    硫酸: 20
+  用时: 1
+碳化钨:
+  产品:
+    碳化钨: 1
+  原料:
+    硫酸: 10
+    碳: 1
+    钨矿石: 2
+  用时: 1
+碳化钨回收:
+  产品:
+    碳化钨: 1
+  原料:
+    碳化钨: 1
+  用时: 0.0625
+碳回收:
+  产品:
+    碳: 1
+  原料:
+    碳: 1
+  用时: 0.0625
+碳纤维:
+  产品:
+    碳纤维: 1
+  原料:
+    优马科浆: 10
+    碳: 1
+  用时: 5
+碳纤维回收:
+  产品:
+    碳纤维: 1
+  原料:
+    碳纤维: 1
+  用时: 0.3125
+碳质小行星再处理:
+  产品:
+    氧化物小行星块: 1
+    碳质小行星块: 1
+    金属小行星块: 1
+  原料:
+    碳质小行星块: 1
+  用时: 2
+碳质小行星块回收:
+  产品:
+    碳质小行星块: 1
+  原料:
+    碳质小行星块: 1
+  用时: 0.0625
+碳质小行星破碎:
+  产品:
+    碳: 10
+    碳质小行星块: 1
+  原料:
+    碳质小行星块: 1
+  用时: 2
+离心机:
+  产品:
+    离心机: 1
+  原料:
+    混凝土: 100
+    钢板: 50
+    铁齿轮: 100
+    高级电路: 100
+  用时: 4
+离心机回收:
+  产品:
+    混凝土: 25
+    钢板: 12.5
+    铁齿轮: 25
+    高级电路: 25
+  原料:
+    离心机: 1
+  用时: 0.25
+科学回收:
+  产品:
+    科学: 1
+  原料:
+    科学: 1
+  用时: 0.0625
+科瓦雷克斯富集工艺:
+  产品:
+    铀-235: 41
+    铀-238: 2
+  原料:
+    铀-235: 40
+    铀-238: 5
+  用时: 60
+空冷氟酮桶:
+  产品:
+    冷氟酮: 50
+    桶: 1
+  原料:
+    冷氟酮桶: 1
+  用时: 0.2
+空原油桶:
+  产品:
+    原油: 50
+    桶: 1
+  原料:
+    原油桶: 1
+  用时: 0.2
+空模块槽回收:
+  产品:
+    空模块槽: 1
+  原料:
+    空模块槽: 1
+  用时: 0.0625
+空水桶:
+  产品:
+    桶: 1
+    水: 50
+  原料:
+    水桶: 1
+  用时: 0.2
+空润滑油桶:
+  产品:
+    桶: 1
+    润滑油: 50
+  原料:
+    润滑油桶: 1
+  用时: 0.2
+空热氟酮桶:
+  产品:
+    桶: 1
+    热氟酮: 50
+  原料:
+    热氟酮桶: 1
+  用时: 0.2
+空石油气桶:
+  产品:
+    petroleum-gas: 50
+    桶: 1
+  原料:
+    石油气桶: 1
+  用时: 0.2
+空硫酸桶:
+  产品:
+    桶: 1
+    硫酸: 50
+  原料:
+    硫酸桶: 1
+  用时: 0.2
+空轻油桶:
+  产品:
+    light-oil: 50
+    桶: 1
+  原料:
+    轻油桶: 1
+  用时: 0.2
+空重油桶:
+  产品:
+    heavy-oil: 50
+    桶: 1
+  原料:
+    重油桶: 1
+  用时: 0.2
+空间平台入门包:
+  产品:
+    空间平台入门包: 1
+  原料:
+    处理单元: 20
+    空间平台基础: 60
+    钢板: 20
+  用时: 60
+空间平台入门包回收:
+  产品:
+    处理单元: 5
+    空间平台基础: 15
+    钢板: 5
+  原料:
+    空间平台入门包: 1
+  用时: 3.75
+空间平台基础:
+  产品:
+    空间平台基础: 1
+  原料:
+    钢板: 20
+    铜线: 20
+  用时: 10
+空间平台基础回收:
+  产品:
+    钢板: 5
+    铜线: 5
+  原料:
+    空间平台基础: 1
+  用时: 0.625
+空间平台枢纽回收:
+  产品:
+    空间平台枢纽: 1
+  原料:
+    空间平台枢纽: 1
+  用时: 0.0625
+空间科学包:
+  产品:
+    空间科学包: 5
+  原料:
+    冰: 1
+    碳: 1
+    铁板: 2
+  用时: 15
+空间科学包回收:
+  产品:
+    空间科学包: 1
+  原料:
+    空间科学包: 1
+  用时: 0.9375
+穿甲弹匣:
+  产品:
+    穿甲弹匣: 1
+  原料:
+    枪械弹匣: 1
+    钢板: 1
+    铜板: 5
+  用时: 3
+穿甲弹匣回收:
+  产品:
+    枪械弹匣: 0.25
+    钢板: 0.25
+    铜板: 1.25
+  原料:
+    穿甲弹匣: 1
+  用时: 0.1875
+穿甲霰弹:
+  产品:
+    穿甲霰弹: 1
+  原料:
+    钢板: 2
+    铜板: 5
+    霰弹: 2
+  用时: 8
+穿甲霰弹回收:
+  产品:
+    钢板: 0.5
+    铜板: 1.25
+    霰弹: 0.5
+  原料:
+    穿甲霰弹: 1
+  用时: 0.5
+简单煤液化:
+  产品:
+    heavy-oil: 50
+  原料:
+    方解石: 2
+    煤: 10
+    硫酸: 25
+  用时: 5
+算术组合器:
+  产品:
+    算术组合器: 1
+  原料:
+    电子电路: 5
+    铜线: 5
+  用时: 0
+算术组合器回收:
+  产品:
+    电子电路: 1.25
+    铜线: 1.25
+  原料:
+    算术组合器: 1
+  用时: 0.0625
+管道:
+  产品:
+    管道: 1
+  原料:
+    铁板: 1
+  用时: 0
+管道回收:
+  产品:
+    铁板: 0.25
+  原料:
+    管道: 1
+  用时: 0.0625
+精炼危险混凝土:
+  产品:
+    精炼危险混凝土: 10
+  原料:
+    精炼混凝土: 10
+  用时: 0.25
+精炼危险混凝土回收:
+  产品:
+    精炼混凝土: 0.25
+  原料:
+    精炼危险混凝土: 1
+  用时: 0.015625
+精炼混凝土:
+  产品:
+    精炼混凝土: 10
+  原料:
+    水: 100
+    混凝土: 20
+    钢板: 1
+    铁棒: 8
+  用时: 15
+精炼混凝土回收:
+  产品:
+    混凝土: 0.5
+    钢板: 0.025
+    铁棒: 0.2
+  原料:
+    精炼混凝土: 1
+  用时: 0.9375
+红色电线回收:
+  产品:
+    红色电线: 1
+  原料:
+    红色电线: 1
+  用时: 0.0625
+绿色电线回收:
+  产品:
+    绿色电线: 1
+  原料:
+    绿色电线: 1
+  用时: 0.0625
+缓冲箱:
+  产品:
+    缓冲箱: 1
+  原料:
+    电子电路: 3
+    钢箱: 1
+    高级电路: 1
+  用时: 0
+缓冲箱回收:
+  产品:
+    电子电路: 0.75
+    钢箱: 0.25
+    高级电路: 0.25
+  原料:
+    缓冲箱: 1
+  用时: 0.0625
+聚变反应堆:
+  产品:
+    聚变反应堆: 1
+  原料:
+    超导体: 200
+    量子处理器: 250
+    钨板: 200
+  用时: 60
+聚变反应堆回收:
+  产品:
+    超导体: 50
+    量子处理器: 62.5
+    钨板: 50
+  原料:
+    聚变反应堆: 1
+  用时: 3.75
+聚变反应堆设备:
+  产品:
+    聚变反应堆设备: 1
+  原料:
+    碳纤维: 100
+    聚变电池: 10
+    裂变反应堆设备: 1
+    超级电容器: 25
+    量子处理器: 250
+    钨板: 250
+  用时: 30
+聚变反应堆设备回收:
+  产品:
+    碳纤维: 25
+    聚变电池: 2.5
+    裂变反应堆设备: 0.25
+    超级电容器: 6.25
+    量子处理器: 62.5
+    钨板: 62.5
+  原料:
+    聚变反应堆设备: 1
+  用时: 1.875
+聚变发电机:
+  产品:
+    聚变发电机: 1
+  原料:
+    超导体: 100
+    量子处理器: 50
+    钨板: 100
+  用时: 30
+聚变发电机回收:
+  产品:
+    超导体: 25
+    量子处理器: 12.5
+    钨板: 25
+  原料:
+    聚变发电机: 1
+  用时: 1.875
+聚变电池:
+  产品:
+    聚变电池: 1
+  原料:
+    氨: 100
+    钬板: 1
+    锂板: 5
+  用时: 10
+聚变电池回收:
+  产品:
+    聚变电池: 1
+  原料:
+    聚变电池: 1
+  用时: 0.625
+能量护盾设备:
+  产品:
+    能量护盾设备: 1
+  原料:
+    钢板: 10
+    高级电路: 5
+  用时: 10
+能量护盾设备MK2:
+  产品:
+    能量护盾设备MK2: 1
+  原料:
+    低密度结构: 5
+    处理单元: 5
+    能量护盾设备: 10
+  用时: 10
+能量护盾设备MK2回收:
+  产品:
+    低密度结构: 1.25
+    处理单元: 1.25
+    能量护盾设备: 2.5
+  原料:
+    能量护盾设备MK2: 1
+  用时: 0.625
+能量护盾设备回收:
+  产品:
+    钢板: 2.5
+    高级电路: 1.25
+  原料:
+    能量护盾设备: 1
+  用时: 0.625
+自动化科学包:
+  产品:
+    自动化科学包: 1
+  原料:
+    铁齿轮: 1
+    铜板: 1
+  用时: 5
+自动化科学包回收:
+  产品:
+    自动化科学包: 1
+  原料:
+    自动化科学包: 1
+  用时: 0.3125
+营养回收:
+  产品:
+    废料: 2.5
+  原料:
+    营养粉: 1
+  用时: 0.125
+蒸汽冷凝:
+  产品:
+    水: 90
+  原料:
+    steam: 1000
+  用时: 1
+蒸汽机:
+  产品:
+    蒸汽机: 1
+  原料:
+    管道: 5
+    铁板: 10
+    铁齿轮: 8
+  用时: 0
+蒸汽机回收:
+  产品:
+    管道: 1.25
+    铁板: 2.5
+    铁齿轮: 2
+  原料:
+    蒸汽机: 1
+  用时: 0.0625
+蒸汽涡轮机:
+  产品:
+    蒸汽涡轮机: 1
+  原料:
+    管道: 20
+    铁齿轮: 50
+    铜板: 50
+  用时: 3
+蒸汽涡轮机回收:
+  产品:
+    管道: 5
+    铁齿轮: 12.5
+    铜板: 12.5
+  原料:
+    蒸汽涡轮机: 1
+  用时: 0.1875
+蓄电池:
+  产品:
+    蓄电池: 1
+  原料:
+    电池: 5
+    铁板: 2
+  用时: 10
+蓄电池回收:
+  产品:
+    电池: 1.25
+    铁板: 0.5
+  原料:
+    蓄电池: 1
+  用时: 0.625
+蓝图书回收:
+  产品:
+    蓝图书: 1
+  原料:
+    蓝图书: 1
+  用时: 0.0625
+蓝图回收:
+  产品:
+    蓝图: 1
+  原料:
+    蓝图: 1
+  用时: 0.0625
+蜘蛛机器人:
+  产品:
+    蜘蛛机器人: 1
+  原料:
+    外骨骼设备: 4
+    火箭炮塔: 1
+    生鱼: 1
+    裂变反应堆设备: 2
+    雷达: 2
+  用时: 10
+蜘蛛机器人回收:
+  产品:
+    外骨骼设备: 1
+    火箭炮塔: 0.25
+    生鱼: 0.25
+    裂变反应堆设备: 0.5
+    雷达: 0.5
+  原料:
+    蜘蛛机器人: 1
+  用时: 0.625
+蜘蛛机器人火箭发射器1回收:
+  产品:
+    蜘蛛机器人火箭发射器1: 1
+  原料:
+    蜘蛛机器人火箭发射器1: 1
+  用时: 0.0625
+蜘蛛机器人火箭发射器2回收:
+  产品:
+    蜘蛛机器人火箭发射器2: 1
+  原料:
+    蜘蛛机器人火箭发射器2: 1
+  用时: 0.0625
+蜘蛛机器人火箭发射器3回收:
+  产品:
+    蜘蛛机器人火箭发射器3: 1
+  原料:
+    蜘蛛机器人火箭发射器3: 1
+  用时: 0.0625
+蜘蛛机器人火箭发射器4回收:
+  产品:
+    蜘蛛机器人火箭发射器4: 1
+  原料:
+    蜘蛛机器人火箭发射器4: 1
+  用时: 0.0625
+蜘蛛机器人遥控器回收:
+  产品:
+    蜘蛛机器人遥控器: 1
+  原料:
+    蜘蛛机器人遥控器: 1
+  用时: 0.0625
+被动提供箱:
+  产品:
+    被动提供箱: 1
+  原料:
+    电子电路: 3
+    钢箱: 1
+    高级电路: 1
+  用时: 0
+被动提供箱回收:
+  产品:
+    电子电路: 0.75
+    钢箱: 0.25
+    高级电路: 0.25
+  原料:
+    被动提供箱: 1
+  用时: 0.0625
+裂变反应堆设备:
+  产品:
+    裂变反应堆设备: 1
+  原料:
+    低密度结构: 50
+    处理单元: 200
+    铀燃料电池: 4
+  用时: 10
+裂变反应堆设备回收:
+  产品:
+    低密度结构: 12.5
+    处理单元: 50
+    铀燃料电池: 1
+  原料:
+    裂变反应堆设备: 1
+  用时: 0.625
+装载机:
+  产品:
+    装载机: 1
+  原料:
+    传送带: 5
+    插入器: 5
+    电子电路: 5
+    铁板: 5
+    铁齿轮: 5
+  用时: 1
+装载机回收:
+  产品:
+    传送带: 1.25
+    插入器: 1.25
+    电子电路: 1.25
+    铁板: 1.25
+    铁齿轮: 1.25
+  原料:
+    装载机: 1
+  用时: 0.0625
+装配机1:
+  产品:
+    装配机1: 1
+  原料:
+    电子电路: 3
+    铁板: 9
+    铁齿轮: 5
+  用时: 0
+装配机1回收:
+  产品:
+    电子电路: 0.75
+    铁板: 2.25
+    铁齿轮: 1.25
+  原料:
+    装配机1: 1
+  用时: 0.0625
+装配机2:
+  产品:
+    装配机2: 1
+  原料:
+    电子电路: 3
+    装配机1: 1
+    钢板: 2
+    铁齿轮: 5
+  用时: 0
+装配机2回收:
+  产品:
+    电子电路: 0.75
+    装配机1: 0.25
+    钢板: 0.5
+    铁齿轮: 1.25
+  原料:
+    装配机2: 1
+  用时: 0.0625
+装配机3:
+  产品:
+    装配机3: 1
+  原料:
+    装配机2: 2
+    速度模块: 4
+  用时: 0
+装配机3回收:
+  产品:
+    装配机2: 0.5
+    速度模块: 1
+  原料:
+    装配机3: 1
+  用时: 0.0625
+请求箱:
+  产品:
+    请求箱: 1
+  原料:
+    电子电路: 3
+    钢箱: 1
+    高级电路: 1
+  用时: 0
+请求箱回收:
+  产品:
+    电子电路: 0.75
+    钢箱: 0.25
+    高级电路: 0.25
+  原料:
+    请求箱: 1
+  用时: 0.0625
+货物着陆垫:
+  产品:
+    货物着陆垫: 1
+  原料:
+    处理单元: 10
+    混凝土: 200
+    钢板: 25
+  用时: 30
+货物着陆垫回收:
+  产品:
+    处理单元: 2.5
+    混凝土: 50
+    钢板: 6.25
+  原料:
+    货物着陆垫: 1
+  用时: 1.875
+货舱:
+  产品:
+    货舱: 1
+  原料:
+    低密度结构: 20
+    处理单元: 5
+    钢板: 20
+  用时: 10
+货舱回收:
+  产品:
+    低密度结构: 5
+    处理单元: 1.25
+    钢板: 5
+  原料:
+    货舱: 1
+  用时: 0.625
+货车:
+  产品:
+    货车: 1
+  原料:
+    钢板: 20
+    铁板: 20
+    铁齿轮: 10
+  用时: 1
+货车回收:
+  产品:
+    钢板: 5
+    铁板: 5
+    铁齿轮: 2.5
+  原料:
+    货车: 1
+  用时: 0.0625
+质量模块:
+  产品:
+    质量模块: 1
+  原料:
+    电子电路: 5
+    高级电路: 5
+  用时: 15
+质量模块2:
+  产品:
+    质量模块2: 1
+  原料:
+    处理单元: 5
+    质量模块: 4
+    高级电路: 5
+  用时: 30
+质量模块2回收:
+  产品:
+    处理单元: 1.25
+    质量模块: 1
+    高级电路: 1.25
+  原料:
+    质量模块2: 1
+  用时: 1.875
+质量模块3:
+  产品:
+    质量模块3: 1
+  原料:
+    处理单元: 5
+    质量模块2: 4
+    超导体: 1
+    高级电路: 5
+  用时: 60
+质量模块3回收:
+  产品:
+    处理单元: 1.25
+    质量模块2: 1
+    超导体: 0.25
+    高级电路: 1.25
+  原料:
+    质量模块3: 1
+  用时: 3.75
+质量模块回收:
+  产品:
+    电子电路: 1.25
+    高级电路: 1.25
+  原料:
+    质量模块: 1
+  用时: 0.9375
+贫铀燃料电池回收:
+  产品:
+    贫铀燃料电池: 1
+  原料:
+    贫铀燃料电池: 1
+  用时: 0.0625
+超导体:
+  产品:
+    超导体: 2
+  原料:
+    light-oil: 5
+    塑料棒: 1
+    钬板: 1
+    铜板: 1
+  用时: 5
+超导体回收:
+  产品:
+    超导体: 1
+  原料:
+    超导体: 1
+  用时: 0.3125
+超级电容器:
+  产品:
+    超级电容器: 1
+  原料:
+    电子电路: 4
+    电池: 1
+    电解质: 10
+    超导体: 2
+    钬板: 2
+  用时: 10
+超级电容器回收:
+  产品:
+    电子电路: 1
+    电池: 0.25
+    超导体: 0.5
+    钬板: 0.5
+  原料:
+    超级电容器: 1
+  用时: 0.625
+车辆机枪回收:
+  产品:
+    车辆机枪: 1
+  原料:
+    车辆机枪: 1
+  用时: 0.0625
+车道分流器回收:
+  产品:
+    车道分流器: 1
+  原料:
+    车道分流器: 1
+  用时: 0.0625
+轻型护甲:
+  产品:
+    轻型护甲: 1
+  原料:
+    铁板: 40
+  用时: 3
+轻型护甲回收:
+  产品:
+    铁板: 10
+  原料:
+    轻型护甲: 1
+  用时: 0.1875
+轻油制固体燃料:
+  产品:
+    solid-fuel: 1
+  原料:
+    light-oil: 10
+  用时: 1
+轻油桶:
+  产品:
+    轻油桶: 1
+  原料:
+    light-oil: 50
+    桶: 1
+  用时: 0.2
+轻油桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    轻油桶: 1
+  用时: 0.0125
+轻油裂解:
+  产品:
+    petroleum-gas: 20
+  原料:
+    light-oil: 30
+    水: 30
+  用时: 2
+过度生长的优马科土壤:
+  产品:
+    过度生长的优马科土壤: 1
+  原料:
+    人造优马科土壤: 2
+    优马科种子: 5
+    咬人虫卵: 10
+    废料: 50
+    水: 100
+  用时: 10
+过度生长的优马科土壤回收:
+  产品:
+    人造优马科土壤: 0.5
+    优马科种子: 1.25
+    咬人虫卵: 2.5
+    废料: 12.5
+  原料:
+    过度生长的优马科土壤: 1
+  用时: 0.625
+过度生长的果冻坚果土壤:
+  产品:
+    过度生长的果冻坚果土壤: 1
+  原料:
+    人造果冻坚果土壤: 2
+    咬人虫卵: 10
+    废料: 50
+    果冻坚果种子: 5
+    水: 100
+  用时: 10
+过度生长的果冻坚果土壤回收:
+  产品:
+    人造果冻坚果土壤: 0.5
+    咬人虫卵: 2.5
+    废料: 12.5
+    果冻坚果种子: 1.25
+  原料:
+    过度生长的果冻坚果土壤: 1
+  用时: 0.625
+近海泵:
+  产品:
+    近海泵: 1
+  原料:
+    管道: 3
+    铁齿轮: 2
+  用时: 0
+近海泵回收:
+  产品:
+    管道: 0.75
+    铁齿轮: 0.5
+  原料:
+    近海泵: 1
+  用时: 0.0625
+选择器组合器:
+  产品:
+    选择器组合器: 1
+  原料:
+    判决组合器: 5
+    高级电路: 2
+  用时: 0
+选择器组合器回收:
+  产品:
+    判决组合器: 1.25
+    高级电路: 0.5
+  原料:
+    选择器组合器: 1
+  用时: 0.0625
+选择工具回收:
+  产品:
+    选择工具: 1
+  原料:
+    选择工具: 1
+  用时: 0.0625
+速度模块:
+  产品:
+    速度模块: 1
+  原料:
+    电子电路: 5
+    高级电路: 5
+  用时: 15
+速度模块2:
+  产品:
+    速度模块2: 1
+  原料:
+    处理单元: 5
+    速度模块: 4
+    高级电路: 5
+  用时: 30
+速度模块2回收:
+  产品:
+    处理单元: 1.25
+    速度模块: 1
+    高级电路: 1.25
+  原料:
+    速度模块2: 1
+  用时: 1.875
+速度模块3:
+  产品:
+    速度模块3: 1
+  原料:
+    处理单元: 5
+    碳化钨: 1
+    速度模块2: 4
+    高级电路: 5
+  用时: 60
+速度模块3回收:
+  产品:
+    处理单元: 1.25
+    碳化钨: 0.25
+    速度模块2: 1
+    高级电路: 1.25
+  原料:
+    速度模块3: 1
+  用时: 3.75
+速度模块回收:
+  产品:
+    电子电路: 1.25
+    高级电路: 1.25
+  原料:
+    速度模块: 1
+  用时: 0.9375
+避雷针:
+  产品:
+    避雷针: 1
+  原料:
+    石砖: 4
+    钢板: 8
+    铜线: 12
+  用时: 5
+避雷针回收:
+  产品:
+    石砖: 1
+    钢板: 2
+    铜线: 3
+  原料:
+    避雷针: 1
+  用时: 0.3125
+酸中和:
+  产品:
+    steam: 10000
+  原料:
+    方解石: 1
+    硫酸: 1000
+  用时: 5
+重型护甲:
+  产品:
+    重型护甲: 1
+  原料:
+    钢板: 50
+    铜板: 100
+  用时: 8
+重型护甲回收:
+  产品:
+    钢板: 12.5
+    铜板: 25
+  原料:
+    重型护甲: 1
+  用时: 0.5
+重油制固体燃料:
+  产品:
+    solid-fuel: 1
+  原料:
+    heavy-oil: 20
+  用时: 1
+重油桶:
+  产品:
+    重油桶: 1
+  原料:
+    heavy-oil: 50
+    桶: 1
+  用时: 0.2
+重油桶回收:
+  产品:
+    桶: 0.25
+  原料:
+    重油桶: 1
+  用时: 0.0125
+重油裂解:
+  产品:
+    light-oil: 30
+  原料:
+    heavy-oil: 40
+    水: 30
+  用时: 2
+量子处理器:
+  产品:
+    热氟酮: 5
+    量子处理器: 1
+  原料:
+    冷氟酮: 10
+    处理单元: 1
+    碳化钨: 1
+    碳纤维: 1
+    超导体: 1
+    锂板: 2
+  用时: 30
+量子处理器回收:
+  产品:
+    处理单元: 0.25
+    碳化钨: 0.25
+    碳纤维: 0.25
+    超导体: 0.25
+    锂板: 0.5
+  原料:
+    量子处理器: 1
+  用时: 1.875
+金属小行星再处理:
+  产品:
+    氧化物小行星块: 1
+    碳质小行星块: 1
+    金属小行星块: 1
+  原料:
+    金属小行星块: 1
+  用时: 2
+金属小行星块回收:
+  产品:
+    金属小行星块: 1
+  原料:
+    金属小行星块: 1
+  用时: 0.0625
+金属小行星破碎:
+  产品:
+    金属小行星块: 1
+    铁矿石: 20
+  原料:
+    金属小行星块: 1
+  用时: 2
+钢板:
+  产品:
+    钢板: 1
+  原料:
+    铁板: 5
+  用时: 16
+钢板回收:
+  产品:
+    钢板: 1
+  原料:
+    钢板: 1
+  用时: 1
+钢炉:
+  产品:
+    钢炉: 1
+  原料:
+    石砖: 10
+    钢板: 6
+  用时: 3
+钢炉回收:
+  产品:
+    石砖: 2.5
+    钢板: 1.5
+  原料:
+    钢炉: 1
+  用时: 0.1875
+钢箱:
+  产品:
+    钢箱: 1
+  原料:
+    钢板: 8
+  用时: 0
+钢箱回收:
+  产品:
+    钢板: 2
+  原料:
+    钢箱: 1
+  用时: 0.0625
+钨板:
+  产品:
+    钨板: 1
+  原料:
+    熔融铁: 10
+    钨矿石: 4
+  用时: 10
+钨板回收:
+  产品:
+    钨板: 1
+  原料:
+    钨板: 1
+  用时: 0.625
+钨矿石回收:
+  产品:
+    钨矿石: 1
+  原料:
+    钨矿石: 1
+  用时: 0.0625
+钬板:
+  产品:
+    钬板: 1
+  原料:
+    钬溶液: 20
+  用时: 1
+钬板回收:
+  产品:
+    钬板: 1
+  原料:
+    钬板: 1
+  用时: 0.0625
+钬溶液:
+  产品:
+    钬溶液: 100
+  原料:
+    水: 10
+    石矿: 1
+    钬矿石: 2
+  用时: 10
+钬矿石回收:
+  产品:
+    钬矿石: 1
+  原料:
+    钬矿石: 1
+  用时: 0.0625
+钷小行星块回收:
+  产品:
+    钷小行星块: 1
+  原料:
+    钷小行星块: 1
+  用时: 0.0625
+钷科学包:
+  产品:
+    钷科学包: 10
+  原料:
+    咬人虫卵: 10
+    量子处理器: 1
+    钷小行星块: 25
+  用时: 5
+钷科学包回收:
+  产品:
+    钷科学包: 1
+  原料:
+    钷科学包: 1
+  用时: 0.3125
+铀-235回收:
+  产品:
+    铀-235: 1
+  原料:
+    铀-235: 1
+  用时: 0.0625
+铀-238回收:
+  产品:
+    铀-238: 1
+  原料:
+    铀-238: 1
+  用时: 0.0625
+铀加工:
+  产品:
+    铀-235: 1
+    铀-238: 1
+  原料:
+    铀矿石: 10
+  用时: 12
+铀弹匣:
+  产品:
+    铀弹匣: 1
+  原料:
+    穿甲弹匣: 1
+    铀-238: 1
+  用时: 10
+铀弹匣回收:
+  产品:
+    穿甲弹匣: 0.25
+    铀-238: 0.25
+  原料:
+    铀弹匣: 1
+  用时: 0.625
+铀炮弹:
+  产品:
+    铀炮弹: 1
+  原料:
+    炮弹: 1
+    铀-238: 1
+  用时: 12
+铀炮弹回收:
+  产品:
+    炮弹: 0.25
+    铀-238: 0.25
+  原料:
+    铀炮弹: 1
+  用时: 0.75
+铀燃料电池:
+  产品:
+    铀燃料电池: 10
+  原料:
+    铀-235: 1
+    铀-238: 19
+    铁板: 10
+  用时: 10
+铀燃料电池回收:
+  产品:
+    铀燃料电池: 1
+  原料:
+    铀燃料电池: 1
+  用时: 0.625
+铀矿石回收:
+  产品:
+    铀矿石: 1
+  原料:
+    铀矿石: 1
+  用时: 0.0625
+铁板:
+  产品:
+    铁板: 1
+  原料:
+    铁矿石: 1
+  用时: 3.2
+铁板回收:
+  产品:
+    铁板: 1
+  原料:
+    铁板: 1
+  用时: 0.2
+铁棒:
+  产品:
+    铁棒: 2
+  原料:
+    铁板: 1
+  用时: 0
+铁棒回收:
+  产品:
+    铁板: 0.125
+  原料:
+    铁棒: 1
+  用时: 0.0625
+铁矿石回收:
+  产品:
+    铁矿石: 1
+  原料:
+    铁矿石: 1
+  用时: 0.0625
+铁箱:
+  产品:
+    铁箱: 1
+  原料:
+    铁板: 8
+  用时: 0
+铁箱回收:
+  产品:
+    铁板: 2
+  原料:
+    铁箱: 1
+  用时: 0.0625
+铁细菌:
+  产品:
+    废料: 4
+    铁细菌: 1
+  原料:
+    果冻: 6
+  用时: 1
+铁细菌回收:
+  产品:
+    铁细菌: 1
+  原料:
+    铁细菌: 1
+  用时: 0.0625
+铁细菌培养:
+  产品:
+    铁细菌: 4
+  原料:
+    生物流: 1
+    铁细菌: 1
+  用时: 4
+铁轨:
+  产品:
+    铁轨: 2
+  原料:
+    石矿: 1
+    钢板: 1
+    铁棒: 1
+  用时: 0
+铁轨信号:
+  产品:
+    铁轨信号: 1
+  原料:
+    电子电路: 1
+    铁板: 5
+  用时: 0
+铁轨信号回收:
+  产品:
+    电子电路: 0.25
+    铁板: 1.25
+  原料:
+    铁轨信号: 1
+  用时: 0.0625
+铁轨回收:
+  产品:
+    石矿: 0.125
+    钢板: 0.125
+    铁棒: 0.125
+  原料:
+    铁轨: 1
+  用时: 0.0625
+铁轨坡道:
+  产品:
+    铁轨坡道: 1
+  原料:
+    精炼混凝土: 100
+    钢板: 10
+    铁轨: 8
+  用时: 0
+铁轨坡道回收:
+  产品:
+    精炼混凝土: 25
+    钢板: 2.5
+    铁轨: 2
+  原料:
+    铁轨坡道: 1
+  用时: 0.0625
+铁轨支撑:
+  产品:
+    铁轨支撑: 1
+  原料:
+    精炼混凝土: 20
+    钢板: 10
+  用时: 0
+铁轨支撑回收:
+  产品:
+    精炼混凝土: 5
+    钢板: 2.5
+  原料:
+    铁轨支撑: 1
+  用时: 0.0625
+铁轨链式信号:
+  产品:
+    铁轨链式信号: 1
+  原料:
+    电子电路: 1
+    铁板: 5
+  用时: 0
+铁轨链式信号回收:
+  产品:
+    电子电路: 0.25
+    铁板: 1.25
+  原料:
+    铁轨链式信号: 1
+  用时: 0.0625
+铁铸造:
+  产品:
+    铁板: 2
+  原料:
+    熔融铁: 20
+  用时: 3.2
+铁齿轮:
+  产品:
+    铁齿轮: 1
+  原料:
+    铁板: 2
+  用时: 0
+铁齿轮回收:
+  产品:
+    铁板: 0.5
+  原料:
+    铁齿轮: 1
+  用时: 0.0625
+铜板:
+  产品:
+    铜板: 1
+  原料:
+    copper-ore: 1
+  用时: 3.2
+铜板回收:
+  产品:
+    铜板: 1
+  原料:
+    铜板: 1
+  用时: 0.2
+铜矿石回收:
+  产品:
+    copper-ore: 1
+  原料:
+    copper-ore: 1
+  用时: 0.0625
+铜线:
+  产品:
+    铜线: 2
+  原料:
+    铜板: 1
+  用时: 0
+铜线回收:
+  产品:
+    铜线: 1
+  原料:
+    铜线: 1
+  用时: 0.0625
+铜线铸造:
+  产品:
+    铜线: 2
+  原料:
+    熔融铜: 5
+  用时: 1
+铜细菌:
+  产品:
+    废料: 1
+    铜细菌: 1
+  原料:
+    优马科浆: 3
+  用时: 1
+铜细菌回收:
+  产品:
+    铜细菌: 1
+  原料:
+    铜细菌: 1
+  用时: 0.0625
+铜细菌培养:
+  产品:
+    铜细菌: 4
+  原料:
+    生物流: 1
+    铜细菌: 1
+  用时: 4
+铜铸造:
+  产品:
+    铜板: 2
+  原料:
+    熔融铜: 20
+  用时: 3.2
+铸造低密度结构:
+  产品:
+    低密度结构: 1
+  原料:
+    塑料棒: 5
+    熔融铁: 80
+    熔融铜: 250
+  用时: 15
+铸造厂:
+  产品:
+    铸造厂: 1
+  原料:
+    润滑油: 20
+    电子电路: 30
+    碳化钨: 50
+    精炼混凝土: 20
+    钢板: 50
+  用时: 10
+铸造厂回收:
+  产品:
+    电子电路: 7.5
+    碳化钨: 12.5
+    精炼混凝土: 5
+    钢板: 12.5
+  原料:
+    铸造厂: 1
+  用时: 0.625
+铸造地下管道:
+  产品:
+    地下管道: 2
+  原料:
+    熔融铁: 50
+    管道: 10
+  用时: 1
+铸造管道:
+  产品:
+    管道: 1
+  原料:
+    熔融铁: 10
+  用时: 1
+铸造钢:
+  产品:
+    钢板: 1
+  原料:
+    熔融铁: 30
+  用时: 3.2
+铸造铁棒:
+  产品:
+    铁棒: 4
+  原料:
+    熔融铁: 20
+  用时: 1
+铸造铁齿轮:
+  产品:
+    铁齿轮: 1
+  原料:
+    熔融铁: 10
+  用时: 1
+链接传送带回收:
+  产品:
+    linked-belt: 1
+  原料:
+    linked-belt: 1
+  用时: 0.0625
+链接箱回收:
+  产品:
+    linked-chest: 1
+  原料:
+    linked-chest: 1
+  用时: 0.0625
+锂:
+  产品:
+    锂: 5
+  原料:
+    lithium-brine: 50
+    氨: 50
+    钬板: 1
+  用时: 20
+锂回收:
+  产品:
+    锂: 1
+  原料:
+    锂: 1
+  用时: 1.25
+锂板:
+  产品:
+    锂板: 1
+  原料:
+    锂: 1
+  用时: 6.4
+锂板回收:
+  产品:
+    锂板: 1
+  原料:
+    锂板: 1
+  用时: 0.4
+锅炉:
+  产品:
+    锅炉: 1
+  原料:
+    石炉: 1
+    管道: 4
+  用时: 0
+锅炉回收:
+  产品:
+    石炉: 0.25
+    管道: 1
+  原料:
+    锅炉: 1
+  用时: 0.0625
+长臂插入器:
+  产品:
+    长臂插入器: 1
+  原料:
+    插入器: 1
+    铁板: 1
+    铁齿轮: 1
+  用时: 0
+长臂插入器回收:
+  产品:
+    插入器: 0.25
+    铁板: 0.25
+    铁齿轮: 0.25
+  原料:
+    长臂插入器: 1
+  用时: 0.0625
+闪电收集器:
+  产品:
+    闪电收集器: 1
+  原料:
+    电解质: 80
+    蓄电池: 1
+    超级电容器: 8
+    避雷针: 1
+  用时: 5
+闪电收集器回收:
+  产品:
+    蓄电池: 0.25
+    超级电容器: 2
+    避雷针: 0.25
+  原料:
+    闪电收集器: 1
+  用时: 0.3125
+闸门:
+  产品:
+    闸门: 1
+  原料:
+    电子电路: 2
+    石墙: 1
+    钢板: 2
+  用时: 0
+闸门回收:
+  产品:
+    电子电路: 0.5
+    石墙: 0.25
+    钢板: 0.5
+  原料:
+    闸门: 1
+  用时: 0.0625
+防御者胶囊:
+  产品:
+    防御者胶囊: 1
+  原料:
+    电子电路: 3
+    穿甲弹匣: 3
+    铁齿轮: 3
+  用时: 8
+防御者胶囊回收:
+  产品:
+    电子电路: 0.75
+    穿甲弹匣: 0.75
+    铁齿轮: 0.75
+  原料:
+    防御者胶囊: 1
+  用时: 0.5
+集束手榴弹:
+  产品:
+    集束手榴弹: 1
+  原料:
+    手榴弹: 7
+    炸药: 5
+    钢板: 5
+  用时: 8
+集束手榴弹回收:
+  产品:
+    手榴弹: 1.75
+    炸药: 1.25
+    钢板: 1.25
+  原料:
+    集束手榴弹: 1
+  用时: 0.5
+雷达:
+  产品:
+    雷达: 1
+  原料:
+    电子电路: 5
+    铁板: 10
+    铁齿轮: 5
+  用时: 0
+雷达回收:
+  产品:
+    电子电路: 1.25
+    铁板: 2.5
+    铁齿轮: 1.25
+  原料:
+    雷达: 1
+  用时: 0.0625
+霰弹:
+  产品:
+    霰弹: 1
+  原料:
+    铁板: 2
+    铜板: 2
+  用时: 3
+霰弹回收:
+  产品:
+    铁板: 0.5
+    铜板: 0.5
+  原料:
+    霰弹: 1
+  用时: 0.1875
+霰弹枪:
+  产品:
+    霰弹枪: 1
+  原料:
+    木材: 5
+    铁板: 15
+    铁齿轮: 5
+    铜板: 10
+  用时: 10
+霰弹枪回收:
+  产品:
+    木材: 1.25
+    铁板: 3.75
+    铁齿轮: 1.25
+    铜板: 2.5
+  原料:
+    霰弹枪: 1
+  用时: 0.625
+飞行机器人框架:
+  产品:
+    飞行机器人框架: 1
+  原料:
+    电动机单元: 1
+    电子电路: 3
+    电池: 2
+    钢板: 1
+  用时: 20
+飞行机器人框架回收:
+  产品:
+    电动机单元: 0.25
+    电子电路: 0.75
+    电池: 0.5
+    钢板: 0.25
+  原料:
+    飞行机器人框架: 1
+  用时: 1.25
+高级推进器氧化剂:
+  产品:
+    推进器氧化剂: 1500
+  原料:
+    方解石: 1
+    水: 100
+    铁矿石: 2
+  用时: 10
+高级推进器燃料:
+  产品:
+    推进器燃料: 1500
+  原料:
+    方解石: 1
+    水: 100
+    碳: 2
+  用时: 10
+高级氧化物小行星破碎:
+  产品:
+    冰: 3
+    方解石: 2
+    氧化物小行星块: 1
+  原料:
+    氧化物小行星块: 1
+  用时: 5
+高级电路:
+  产品:
+    高级电路: 1
+  原料:
+    塑料棒: 2
+    电子电路: 2
+    铜线: 4
+  用时: 6
+高级电路回收:
+  产品:
+    塑料棒: 0.5
+    电子电路: 0.5
+    铜线: 1
+  原料:
+    高级电路: 1
+  用时: 0.375
+高级石油加工:
+  产品:
+    heavy-oil: 25
+    light-oil: 45
+    petroleum-gas: 55
+  原料:
+    原油: 100
+    水: 50
+  用时: 5
+高级碳质小行星破碎:
+  产品:
+    硫磺: 2
+    碳: 5
+    碳质小行星块: 1
+  原料:
+    碳质小行星块: 1
+  用时: 5
+高级金属小行星破碎:
+  产品:
+    copper-ore: 4
+    金属小行星块: 1
+    铁矿石: 10
+  原料:
+    金属小行星块: 1
+  用时: 5
+鱼类养殖:
+  产品:
+    生鱼: 3
+  原料:
+    水: 100
+    生鱼: 2
+    营养粉: 100
+  用时: 6
