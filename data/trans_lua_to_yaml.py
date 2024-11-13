@@ -38,3 +38,10 @@ python_dict = lua_table_to_dict(lua_table)
 
 with open(YAML, "w", encoding="utf-8") as yaml_file:
     yaml.dump(python_dict, yaml_file, allow_unicode=True)
+
+recipes = python_dict['recipe']
+
+REPICES_FILE = os.path.join(PWD, 'recipes.yaml')
+
+with open(REPICES_FILE, "w", encoding="utf-8") as yaml_file:
+    yaml.dump(recipes, yaml_file, allow_unicode=True)
