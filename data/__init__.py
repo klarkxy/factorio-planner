@@ -17,12 +17,12 @@ class Recipe:
         results: dict[str, int] = {}
         for x in v.get("results", {}):
             results[x["name"]] = x["amount"]
-        self.time: float = (v.get("energy_required", 0),)
-        self.ingredients = (ingredients,)
-        self.results = (results,)
-        self.allow_productivity: bool = (v.get("allow_productivity", False),)
-        self.allow_quality: bool = (v.get("allow_quality", False),)
-        self.category: str = (v.get("category", "unkonwn"),)
+        self.time: float = v.get("energy_required", 0)
+        self.ingredients = ingredients
+        self.results = results
+        self.allow_productivity: bool = v.get("allow_productivity", False)
+        self.allow_quality: bool = v.get("allow_quality", False)
+        self.category: str = v.get("category", "unkonwn")
 
 
 # 读取配方数据
@@ -56,10 +56,11 @@ fluids = load_fluids()
 class Machine:
     def __init__(self, k: str, v: dict):
         self.name: str = k
-        self.speed: float = v["crafting_speed"]
-        self.module_slots: int = v["module_slots"]
-        self.energy_usage: float = v["energy_usage"]
-        self.ingredient_count: int = v["ingredient_count"]
+        self.energy_usage: str = v["energy_usage"]  # 能量消耗
+        self.speed: float = v["crafting_speed"]  # 速度
+        self.module_slots: int = v["module_slots"]  # 插件槽数量
+        self.allowed_effects: list[str] = v["allowed_effects"]  # 允许的插件
+        self.type: str = v["type"]
 
 
 def load_machines():
@@ -72,4 +73,7 @@ def load_machines():
         "lab",
     ]
     machines = {}
-    for t in 
+    for t in machine_type:
+        raw_machine_data = raw_data[t]
+        for k, v in raw_machine_data:
+            machines = Machine(k, v)

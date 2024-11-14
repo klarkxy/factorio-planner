@@ -33,7 +33,7 @@ def get(k: str) -> str:
         try:
             v = do_translate(k)
         except Exception as e:
-            traceback.print_exc()
+            # traceback.print_exc()
             v = k
         locale[k] = v
     if isinstance(locale[k], list):

@@ -13,6 +13,7 @@ def scan():
 
     ret = ""
     for k, v in raw_data.items():
+        print(k)
         ret = ret + f"{k}({locale.get(k)}):\n"
         struct = {}
         for k1, v1 in v.items():
@@ -26,7 +27,7 @@ def scan():
                     else:
                         struct[k2] = [struct[k2], type(v2)]
         for k1, v1 in struct.items():
-            ret = ret + f"  {k1}({locale.get(k)}): {v1}\n"
+            ret = ret + f"  {k1}({locale.get(k1)}): {v1}\n"
     return ret
 
 
